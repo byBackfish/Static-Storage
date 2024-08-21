@@ -149,11 +149,7 @@
       "label": "Galleon's Graveyard",
       "level": 63
     },
-    "location": {
-      "x": -587,
-      "y": 39,
-      "z": -3522
-    }
+    "location": null
   },
   {
     "featureId": "ice-barrows",
