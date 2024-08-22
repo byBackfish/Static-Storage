@@ -1,3 +1,23 @@
+# how to fix wynntils item percentages being outdated
+you will need to change the url that Wynntils uses for their static storage from the official one to my fork, here's how you do that:
+
+> close your game
+
+> open `.minecraft/wynntils/cache/dataStaticUrls.json` (or wherever your profiel installation is)
+
+> Search for `dataStaticUrls`, and change the url from 
+
+`https://raw.githubusercontent.com/Wynntils/Static-Storage/main/Data-Storage/urls.json`
+to
+`https://raw.githubusercontent.com/byBackfish/Static-Storage/main/Data-Storage/urls.json`
+
+> save and restart your game. You should now see all of the new changes
+
+**What does not work:**
+- New majorids don't show properly or don't show at all
+- Color of new leather armor might be wrong
+
+
 # Static-Storage
 
 The purpose of this repository is to bundle every data source into a singular repository, as well as include anything else used for generating such data. The repository also includes github actions to run scripts to update eligible data files.
