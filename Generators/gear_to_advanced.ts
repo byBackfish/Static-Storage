@@ -223,8 +223,8 @@ for (const itemName of Object.keys(GearJson)) {
     const newData = wynnFormatToAdvancedFormat(GearJson[itemName])
     if (itemName in AdvancedGearJson) {
         AdvancedGearJson[itemName] = {
-            ...newData,
             ...AdvancedGearJson[itemName],
+            ...newData,
         }
 
     console.log(`Updated ${itemName}`)
