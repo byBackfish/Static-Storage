@@ -11552,7 +11552,6 @@
     "tier": "set",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "695bbf9f175b1e76a61b4cd0ba183b18c9467017f41ed1046abf65a4a63c4a0"
   },
   "Bear Opener": {
@@ -12326,8 +12325,7 @@
       "level": 6
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Birch Wood Dagger": {
     "attackSpeed": "fast",
@@ -12382,8 +12380,7 @@
       "level": 6
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Birch Wood Wand": {
     "attackSpeed": "normal",
@@ -12533,8 +12530,7 @@
       "strength": 10
     },
     "type": "spear",
-    "tier": "unique",
-    "material": "256:10"
+    "tier": "unique"
   },
   "Bizzles": {
     "attackSpeed": "very_slow",
@@ -18751,7 +18747,6 @@
     "tier": "unique",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "3795edeeb6b7ed41c268cefeafbe960b7c49550daeb631b56156bf5feb9847"
   },
   "Buster Bracer": {
@@ -27705,7 +27700,6 @@
     "tier": "common",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "allowCraftsman": true,
     "skin": "349d80c86a6e1b1ad9d3628081eeb53cb1ab9fbaa6d189eae80a83613ef6b63e"
   },
@@ -32273,8 +32267,7 @@
       "level": 24
     },
     "type": "spear",
-    "tier": "rare",
-    "material": "256:10"
+    "tier": "rare"
   },
   "Cypress": {
     "attackSpeed": "slow",
@@ -35066,8 +35059,7 @@
     },
     "restrictions": "untradable",
     "type": "spear",
-    "tier": "legendary",
-    "material": "256:10"
+    "tier": "legendary"
   },
   "Depressing Bow": {
     "attackSpeed": "slow",
@@ -35078,7 +35070,6 @@
     },
     "type": "bow",
     "tier": "common",
-    "material": "256:10",
     "base": {
       "averageDPS": 1,
       "damage": {
@@ -35096,7 +35087,6 @@
     },
     "type": "dagger",
     "tier": "common",
-    "material": "256:10",
     "base": {
       "averageDPS": 1,
       "damage": {
@@ -35114,7 +35104,6 @@
     },
     "type": "spear",
     "tier": "common",
-    "material": "256:10",
     "base": {
       "averageDPS": 1,
       "damage": {
@@ -35132,7 +35121,6 @@
     },
     "type": "wand",
     "tier": "common",
-    "material": "256:10",
     "base": {
       "averageDPS": 1,
       "damage": {
@@ -46449,7 +46437,6 @@
     "tier": "legendary",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "ce27f538d22b15277ea47e6556ea8fda8a0b1cda3f0c38f52d3fceaa5f0cf570"
   },
   "Estuarine": {
@@ -51237,8 +51224,7 @@
       "level": 39
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Andesite Dagger": {
     "attackSpeed": "normal",
@@ -51293,8 +51279,7 @@
       "level": 39
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Andesite Wand": {
     "attackSpeed": "slow",
@@ -51330,8 +51315,7 @@
       "level": 36
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Birch Dagger": {
     "attackSpeed": "fast",
@@ -51386,8 +51370,7 @@
       "level": 36
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Birch Wand": {
     "attackSpeed": "normal",
@@ -51479,8 +51462,7 @@
       "level": 47
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Diorite Dagger": {
     "attackSpeed": "normal",
@@ -51535,8 +51517,7 @@
       "level": 47
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Diorite Wand": {
     "attackSpeed": "slow",
@@ -51572,8 +51553,7 @@
       "level": 54
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Granite Dagger": {
     "attackSpeed": "normal",
@@ -51628,8 +51608,7 @@
       "level": 54
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Granite Wand": {
     "attackSpeed": "slow",
@@ -51665,8 +51644,7 @@
       "level": 53
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Jungle Dagger": {
     "attackSpeed": "fast",
@@ -51721,8 +51699,7 @@
       "level": 53
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Jungle Wand": {
     "attackSpeed": "normal",
@@ -51758,8 +51735,7 @@
       "level": 42
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Light Birch Dagger": {
     "attackSpeed": "very_fast",
@@ -51814,8 +51790,7 @@
       "level": 42
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Light Birch Wand": {
     "attackSpeed": "fast",
@@ -51851,8 +51826,7 @@
       "level": 55
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Light Jungle Dagger": {
     "attackSpeed": "very_fast",
@@ -51907,8 +51881,7 @@
       "level": 55
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Light Jungle Wand": {
     "attackSpeed": "fast",
@@ -51944,8 +51917,7 @@
       "level": 33
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Light Oak Dagger": {
     "attackSpeed": "very_fast",
@@ -52000,8 +51972,7 @@
       "level": 33
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Light Oak Wand": {
     "attackSpeed": "fast",
@@ -52037,8 +52008,7 @@
       "level": 50
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Light Spruce Dagger": {
     "attackSpeed": "very_fast",
@@ -52093,8 +52063,7 @@
       "level": 50
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Light Spruce Wand": {
     "attackSpeed": "fast",
@@ -52130,8 +52099,7 @@
       "level": 28
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Oak Dagger": {
     "attackSpeed": "fast",
@@ -52186,8 +52154,7 @@
       "level": 28
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Oak Wand": {
     "attackSpeed": "normal",
@@ -52223,8 +52190,7 @@
       "level": 45
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Spruce Dagger": {
     "attackSpeed": "fast",
@@ -52279,8 +52245,7 @@
       "level": 45
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Spruce Wand": {
     "attackSpeed": "normal",
@@ -52316,8 +52281,7 @@
       "level": 30
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Stone Dagger": {
     "attackSpeed": "normal",
@@ -52372,8 +52336,7 @@
       "level": 30
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Flawless Stone Wand": {
     "attackSpeed": "slow",
@@ -56898,7 +56861,6 @@
     "tier": "rare",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "73c21b3caf8a6eab7d181734a430db521b1db833c8987dde241180231e47826"
   },
   "Gestation": {
@@ -61803,7 +61765,6 @@
     "tier": "rare",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "d7d7ad2dcb57dfa9f023dbb99b698fc53075c3e9d654506139a647ac907fddc5"
   },
   "Hammer of the Blacksmith": {
@@ -62067,7 +62028,6 @@
     "tier": "common",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "allowCraftsman": true,
     "skin": "93f9972d0c93cbf1c507d819536566a180f7c587be81d90ccaca43ffa302f6d6"
   },
@@ -64861,7 +64821,6 @@
     "type": "helmet",
     "tier": "rare",
     "armorType": "chain",
-    "material": "256:10",
     "skin": "79b5adc800fdea323b71d4ea081f371269874e15c81eb70c3d906b10c90ac5e4"
   },
   "Heroism": {
@@ -66736,7 +66695,6 @@
     "tier": "common",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "allowCraftsman": true,
     "skin": "a36ff5c6f29f0674beecabfcfae0dc0ca6449e64e585533a4529931c4e7a5a71"
   },
@@ -67278,7 +67236,6 @@
     "tier": "rare",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "56aab58fa01fce9af469ed747aed811d7ba18c476f5a7f9088e129c31b45f3"
   },
   "Ice Sickle": {
@@ -68058,8 +68015,7 @@
       "level": 86
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Andesite Dagger": {
     "attackSpeed": "normal",
@@ -68114,8 +68070,7 @@
       "level": 86
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Andesite Wand": {
     "attackSpeed": "slow",
@@ -68151,8 +68106,7 @@
       "level": 84
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Birch Dagger": {
     "attackSpeed": "fast",
@@ -68207,8 +68161,7 @@
       "level": 84
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Birch Wand": {
     "attackSpeed": "normal",
@@ -68244,8 +68197,7 @@
       "level": 93
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Diorite Dagger": {
     "attackSpeed": "normal",
@@ -68300,8 +68252,7 @@
       "level": 93
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Diorite Wand": {
     "attackSpeed": "slow",
@@ -68337,8 +68288,7 @@
       "level": 98
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Granite Dagger": {
     "attackSpeed": "normal",
@@ -68393,8 +68343,7 @@
       "level": 98
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Granite Wand": {
     "attackSpeed": "slow",
@@ -68430,8 +68379,7 @@
       "level": 97
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Jungle Dagger": {
     "attackSpeed": "fast",
@@ -68486,8 +68434,7 @@
       "level": 97
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Jungle Wand": {
     "attackSpeed": "normal",
@@ -68523,8 +68470,7 @@
       "level": 89
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Light Birch Dagger": {
     "attackSpeed": "very_fast",
@@ -68579,8 +68525,7 @@
       "level": 89
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Light Birch Wand": {
     "attackSpeed": "fast",
@@ -68616,8 +68561,7 @@
       "level": 98
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Light Jungle Dagger": {
     "attackSpeed": "very_fast",
@@ -68672,8 +68616,7 @@
       "level": 98
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Light Jungle Wand": {
     "attackSpeed": "fast",
@@ -68709,8 +68652,7 @@
       "level": 82
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Light Oak Dagger": {
     "attackSpeed": "very_fast",
@@ -68765,8 +68707,7 @@
       "level": 82
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Light Oak Wand": {
     "attackSpeed": "fast",
@@ -68802,8 +68743,7 @@
       "level": 95
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Light Spruce Dagger": {
     "attackSpeed": "very_fast",
@@ -68858,8 +68798,7 @@
       "level": 95
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Light Spruce Wand": {
     "attackSpeed": "fast",
@@ -68895,8 +68834,7 @@
       "level": 78
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Oak Dagger": {
     "attackSpeed": "fast",
@@ -68951,8 +68889,7 @@
       "level": 78
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Oak Wand": {
     "attackSpeed": "normal",
@@ -68988,8 +68925,7 @@
       "level": 91
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Spruce Dagger": {
     "attackSpeed": "fast",
@@ -69044,8 +68980,7 @@
       "level": 91
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Spruce Wand": {
     "attackSpeed": "normal",
@@ -69081,8 +69016,7 @@
       "level": 80
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Stone Dagger": {
     "attackSpeed": "normal",
@@ -69137,8 +69071,7 @@
       "level": 80
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Impeccable Stone Wand": {
     "attackSpeed": "slow",
@@ -72857,8 +72790,7 @@
       "level": 19
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Jungle Wood Dagger": {
     "attackSpeed": "fast",
@@ -72913,8 +72845,7 @@
       "level": 19
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Jungle Wood Wand": {
     "attackSpeed": "normal",
@@ -74422,8 +74353,7 @@
       "strength": 20
     },
     "type": "dagger",
-    "tier": "legendary",
-    "material": "256:10"
+    "tier": "legendary"
   },
   "Kilpkonn": {
     "base": {
@@ -77580,8 +77510,7 @@
       "level": 11
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Light Birch Wood Dagger": {
     "attackSpeed": "very_fast",
@@ -77636,8 +77565,7 @@
       "level": 11
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Light Birch Wood Wand": {
     "attackSpeed": "fast",
@@ -77673,8 +77601,7 @@
       "level": 25
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Light Jungle Wood Dagger": {
     "attackSpeed": "very_fast",
@@ -77729,8 +77656,7 @@
       "level": 25
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Light Jungle Wood Wand": {
     "attackSpeed": "fast",
@@ -77818,8 +77744,7 @@
       "level": 4
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Light Oak Wood Dagger": {
     "attackSpeed": "very_fast",
@@ -77874,8 +77799,7 @@
       "level": 4
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Light Oak Wood Wand": {
     "attackSpeed": "fast",
@@ -77911,8 +77835,7 @@
       "level": 17
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Light Spruce Wood Dagger": {
     "attackSpeed": "very_fast",
@@ -77967,8 +77890,7 @@
       "level": 17
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Light Spruce Wood Wand": {
     "attackSpeed": "fast",
@@ -82128,7 +82050,6 @@
     "tier": "legendary",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "33aa7ec824d85eb9fc78efc96689b8a9fe828838bb16fee52ff9caaae83cc3a"
   },
   "Mask of Enlightenment": {
@@ -82201,7 +82122,6 @@
     "tier": "legendary",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "babeeab51c36475d06f683c91ea8b3e382a9e71e847129cecde8711d97bda6"
   },
   "Mask of Hate": {
@@ -82237,7 +82157,6 @@
     "tier": "legendary",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "5c32ded5d7657df31114dfdd319219337e576465b7797dc06b5632cebd4c37"
   },
   "Mask of Rage": {
@@ -82273,7 +82192,6 @@
     "tier": "legendary",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "6acc872a0dd7227489fdedbebc2ea62158eef7e5dd96cc87699977ab920fa"
   },
   "Mask of the Dark Curse": {
@@ -82382,7 +82300,6 @@
     "tier": "legendary",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "27e8490c0f97e59e2c60932725f10235e97b744bdab598702a0b2e7990de304c"
   },
   "Masochist": {
@@ -83931,7 +83848,6 @@
     "tier": "unique",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "bba8459145d83ffc44ad58c3260e74ca5a0f634c7eeb59a1ad3234849c933c"
   },
   "Metamorphosis": {
@@ -87209,7 +87125,6 @@
     "tier": "unique",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "1ea6f932b45fdf3b693d9e44bd05bca364eb5b9aff497226fdb52abb2436422"
   },
   "Muddy Soles": {
@@ -91513,7 +91428,6 @@
     "restrictions": "untradable",
     "type": "bow",
     "tier": "common",
-    "material": "256:10",
     "allowCraftsman": true
   },
   "Oak Wood Dagger": {
@@ -91575,7 +91489,6 @@
     "restrictions": "untradable",
     "type": "spear",
     "tier": "common",
-    "material": "256:10",
     "allowCraftsman": true
   },
   "Oak Wood Wand": {
@@ -93727,7 +93640,6 @@
     "tier": "common",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "db37f3eb1a31d9359fd5996bbd2ab4e8c3924c3e1c8b51bae6a5415eedd6914"
   },
   "Orc Slasher": {
@@ -94366,7 +94278,6 @@
     "tier": "legendary",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "f4caff4072ef1a611eed6b0bcae71cacef03f814f64a12b854c90b866589534b"
   },
   "Outlaw Boots": {
@@ -102141,8 +102052,7 @@
       "level": 63
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Andesite Dagger": {
     "attackSpeed": "normal",
@@ -102197,8 +102107,7 @@
       "level": 63
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Andesite Wand": {
     "attackSpeed": "slow",
@@ -102234,8 +102143,7 @@
       "level": 61
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Birch Dagger": {
     "attackSpeed": "fast",
@@ -102290,8 +102198,7 @@
       "level": 61
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Birch Wand": {
     "attackSpeed": "normal",
@@ -102341,8 +102248,7 @@
       "level": 69
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Diorite Dagger": {
     "attackSpeed": "normal",
@@ -102397,8 +102303,7 @@
       "level": 69
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Diorite Wand": {
     "attackSpeed": "slow",
@@ -102434,8 +102339,7 @@
       "level": 74
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Granite Dagger": {
     "attackSpeed": "normal",
@@ -102490,8 +102394,7 @@
       "level": 74
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Granite Wand": {
     "attackSpeed": "slow",
@@ -102569,8 +102472,7 @@
       "level": 72
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Jungle Dagger": {
     "attackSpeed": "fast",
@@ -102625,8 +102527,7 @@
       "level": 72
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Jungle Wand": {
     "attackSpeed": "normal",
@@ -102662,8 +102563,7 @@
       "level": 65
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Light Birch Dagger": {
     "attackSpeed": "very_fast",
@@ -102718,8 +102618,7 @@
       "level": 65
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Light Birch Wand": {
     "attackSpeed": "fast",
@@ -102755,8 +102654,7 @@
       "level": 76
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Light Jungle Dagger": {
     "attackSpeed": "very_fast",
@@ -102811,8 +102709,7 @@
       "level": 76
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Light Jungle Wand": {
     "attackSpeed": "fast",
@@ -102848,8 +102745,7 @@
       "level": 59
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Light Oak Dagger": {
     "attackSpeed": "very_fast",
@@ -102904,8 +102800,7 @@
       "level": 59
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Light Oak Wand": {
     "attackSpeed": "fast",
@@ -102941,8 +102836,7 @@
       "level": 70
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Light Spruce Dagger": {
     "attackSpeed": "very_fast",
@@ -102997,8 +102891,7 @@
       "level": 70
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Light Spruce Wand": {
     "attackSpeed": "fast",
@@ -103125,8 +103018,7 @@
       "level": 67
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Spruce Dagger": {
     "attackSpeed": "fast",
@@ -103181,8 +103073,7 @@
       "level": 67
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Spruce Wand": {
     "attackSpeed": "normal",
@@ -103218,8 +103109,7 @@
       "level": 57
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Stone Dagger": {
     "attackSpeed": "normal",
@@ -103274,8 +103164,7 @@
       "level": 57
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Pure Stone Wand": {
     "attackSpeed": "slow",
@@ -103391,8 +103280,7 @@
     },
     "restrictions": "untradable",
     "type": "accessory",
-    "tier": "rare",
-    "material": "256:10"
+    "tier": "rare"
   },
   "Purified Helmet of the Legends": {
     "base": {
@@ -108165,7 +108053,6 @@
     "tier": "rare",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "59dee2e814cd4b5e933d8f2b30a0bc2a583552cbe3dae581bec09fbb6eb07e"
   },
   "Repulsion": {
@@ -108803,7 +108690,6 @@
     "tier": "legendary",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "3b1acfb3756a41dd0d55c081fc9048dc1919bd771158f91baa66ea48efa26bdb"
   },
   "Reverie": {
@@ -110239,7 +110125,6 @@
     "tier": "unique",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "454d9c488c3fbde5454e38619f9cc5b5ba8c6c0186f8aa1da60900fcbc3ea6"
   },
   "Rockworm": {
@@ -111881,7 +111766,6 @@
     "tier": "common",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "allowCraftsman": true,
     "skin": "c8932a5640ded374b64549d587627fd4ce9a4d39fdd7f7a6ff48654fab184007"
   },
@@ -114086,7 +113970,6 @@
     "tier": "common",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "allowCraftsman": true,
     "skin": "29fc29f00c0e600388346e0d2f89c9e96b9f8ba280827e559e06b9c2d8c92220"
   },
@@ -117989,7 +117872,6 @@
     "tier": "unique",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "65d7bed8df714cea063e457ba5e87931141de293dd1d9b9146b0f5ab383866"
   },
   "Shock": {
@@ -126635,8 +126517,7 @@
       "level": 13
     },
     "type": "bow",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Spruce Wood Dagger": {
     "attackSpeed": "fast",
@@ -126691,8 +126572,7 @@
       "level": 13
     },
     "type": "spear",
-    "tier": "common",
-    "material": "256:10"
+    "tier": "common"
   },
   "Spruce Wood Wand": {
     "attackSpeed": "normal",
@@ -131690,7 +131570,6 @@
     "tier": "common",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "allowCraftsman": true,
     "skin": "a62037c9000d527e675e4e8c3baed76a55915a314e3ed8decc079c27dc12e189"
   },
@@ -141478,7 +141357,6 @@
     "tier": "legendary",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "d89343b672a08850af91abaf394a2fdf3034f6bea0e4d9cd24ef27d2c7e7c626"
   },
   "Treat": {
@@ -143939,8 +143817,7 @@
       "level": 35
     },
     "type": "relik",
-    "tier": "unique",
-    "material": "256:10"
+    "tier": "unique"
   },
   "Upgraded Flare Blitz": {
     "attackSpeed": "fast",
@@ -144222,7 +144099,6 @@
     "tier": "rare",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "db37f3eb1a31d9359fd5996bbd2ab4e8c3924c3e1c8b51bae6a5415eedd6914"
   },
   "Upgraded Phoenix": {
@@ -145919,7 +145795,6 @@
     "tier": "legendary",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "871c640dcc9db49215bd28acb62c494536dda4055997f527e7445aba85441c56"
   },
   "Veneration": {
@@ -147688,8 +147563,7 @@
       "strength": 40
     },
     "type": "spear",
-    "tier": "rare",
-    "material": "256:10"
+    "tier": "rare"
   },
   "Voidstone Elrik": {
     "attackSpeed": "very_slow",
@@ -148888,7 +148762,6 @@
     "tier": "rare",
     "armorType": "leather",
     "armorColor": "160,101,64",
-    "material": "256:10",
     "skin": "5c7ecbfd6d33e873a1cf9a92f57f146152b52d9d7311694602671111a302f"
   },
   "Water Relic Boots": {
@@ -152191,8 +152064,7 @@
       "level": 12
     },
     "type": "bow",
-    "tier": "legendary",
-    "material": "256:10"
+    "tier": "legendary"
   },
   "Witherhead's Talisman": {
     "accessoryType": "necklace",

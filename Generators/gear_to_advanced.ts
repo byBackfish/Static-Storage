@@ -49,8 +49,8 @@ const TRANSFORMERS: Record<string, {from: string | undefined; to: string | undef
     },
     baseDamage: {
         from: "base.baseDamage",
-        to: "base.baseDamage",
-        delete: false,
+        to: "base.damage",
+        delete: true,
         processor(to, value, object) {
             nestedSet(object, to, { max: value, min: value })
         },
@@ -58,22 +58,22 @@ const TRANSFORMERS: Record<string, {from: string | undefined; to: string | undef
     baseFireDamage: {
         from: "base.baseFireDamage",
         to: "base.fireDamage",
-        delete: false,
+        delete: true,
         processor(to, value, object) {
             nestedSet(object, to, { max: value, min: value })
         },
     },
     baseAirDamage: {
         from: "base.baseAirDamage",
-        to: "base.baseAirDamage",
-        delete: false,
+        to: "base.airDamage",
+        delete: true,
         processor(to, value, object) {
             nestedSet(object, to, { max: value, min: value })
         },
     },
     baseThunderDamage: {
         from: "base.baseThunderDamage",
-        to: "base.baseThunderDamage",
+        to: "base.thunderDamage",
         delete: true,
         processor(to, value, object) {
             nestedSet(object, to, { max: value, min: value })
@@ -81,16 +81,16 @@ const TRANSFORMERS: Record<string, {from: string | undefined; to: string | undef
     },
     baseWaterDamage: {
         from: "base.baseWaterDamage",
-        to: "base.baseWaterDamage",
-        delete: false,
+        to: "base.waterDamage",
+        delete: true,
         processor(to, value, object) {
             nestedSet(object, to, { max: value, min: value })
         },
     },
     baseEarthDamage: {
         from: "base.baseEarthDamage",
-        to: "base.baseEarthDamage",
-        delete: false,
+        to: "base.earthDamage",
+        delete: true,
         processor(to, value, object) {
             nestedSet(object, to, { max: value, min: value })
         },
@@ -231,7 +231,7 @@ await Bun.write("Reference/tmp/advanced_gear_expanded.json", JSON.stringify(Adva
 
 console.log("Done")
 
-let md5 = (await Bun.$`md5sum Reference/advanced_gear.json | cut -d' ' -f1`.text()).replace("\n", "")
+let md5 = (await Bun.$`md5sum Reference/tmp/advanced_gear.json | cut -d' ' -f1`.text()).replace("\n", "")
 
 const URLJson: {md5: string; id: string}[] = await Bun.file("Data-Storage/urls.json").json()
 URLJson.forEach(item => {
