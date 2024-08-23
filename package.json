@@ -9,9 +9,12 @@
     "typescript": "^5.0.0"
   },
   "scripts": {
-    "update:gear": "bun run Generators/gear_to_advanced.ts",
-    "fmt:gear": "bun run Generators/format_gear.ts",
-    "upfix:gear": "bun run Generators/upfix_materials.ts",
-    "gear": "bun run update:gear && bun run upfix:gear "
+    "update:gear": "bun run Generators/ts/gear/update_gear.ts && bun run Generators/ts/gear/update_gear_materials.ts",
+    "fmt:gear": "bun run Generators/ts/gear/format_gear.ts",
+    "all:gear": "bun run update:gear && bun run fmt:gear",
+
+    "update:ingredients": "bun run Generators/ts/ingredients/update_ingredients.ts",
+    "fmt:ingredients": "bun run Generators/ts/format_ingredients.ts",
+    "all:ingredients": "bun run update:ingredients && bun run fmt:ingredients"
   }
 }

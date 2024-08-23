@@ -1,4 +1,4 @@
-import type { ItemData, AdvancedItemData } from "./struct/ItemData"
+import type { ItemData, AdvancedItemData } from "../../struct/ItemData"
 
 const GearJson: Record<string, ItemData> = await Bun.file("Reference/gear.json").json()
 const AdvancedGearJson: Record<string, AdvancedItemData> = await Bun.file("Reference/advanced_gear.json").json()

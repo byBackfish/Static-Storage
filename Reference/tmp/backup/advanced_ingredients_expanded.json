@@ -9,12 +9,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Accursed Effigy": {
     "icon": {
@@ -43,11 +38,7 @@
     "requirements": {
       "level": 76
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Acid Magma": {
     "icon": {
@@ -70,11 +61,7 @@
     "requirements": {
       "level": 91
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Acidic Blood": {
     "icon": {
@@ -93,11 +80,7 @@
     "requirements": {
       "level": 43
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Acidic Remains": {
     "icon": {
@@ -121,11 +104,7 @@
     "requirements": {
       "level": 102
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Acidic Solution": {
     "icon": {
@@ -144,11 +123,7 @@
     "requirements": {
       "level": 60
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Acidulous Plating": {
     "icon": {
@@ -177,10 +152,7 @@
     "requirements": {
       "level": 104
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Active Fireball": {
     "icon": {
@@ -199,12 +171,7 @@
     "requirements": {
       "level": 4
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Adamastor's Faceplate": {
     "icon": {
@@ -233,11 +200,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Adaptive Tissue": {
     "icon": {
@@ -261,10 +224,7 @@
     "requirements": {
       "level": 78
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Adventurer's Diary": {
     "icon": {
@@ -283,10 +243,7 @@
     "requirements": {
       "level": 60
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Aged Medallion": {
     "icon": {
@@ -310,11 +267,7 @@
     "requirements": {
       "level": 25
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Aged Tome": {
     "icon": {
@@ -338,11 +291,7 @@
     "requirements": {
       "level": 82
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Agullo Beak": {
     "icon": {
@@ -366,10 +315,7 @@
     "requirements": {
       "level": 81
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Alga": {
     "icon": {
@@ -393,10 +339,7 @@
     "requirements": {
       "level": 60
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Algae Mat": {
     "icon": {
@@ -420,10 +363,7 @@
     "requirements": {
       "level": 36
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Alginate Dressing": {
     "icon": {
@@ -447,10 +387,7 @@
     "requirements": {
       "level": 77
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Alnamar Meat": {
     "icon": {
@@ -478,10 +415,7 @@
     "requirements": {
       "level": 103
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Altered Ash": {
     "icon": {
@@ -499,11 +433,7 @@
     "requirements": {
       "level": 15
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Altitude Shard": {
     "icon": {
@@ -532,10 +462,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Amber-Encased Fleris": {
     "icon": {
@@ -554,10 +481,7 @@
     "requirements": {
       "level": 94
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Ancient Coins": {
     "icon": {
@@ -586,12 +510,7 @@
     "requirements": {
       "level": 59
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Ancient Core": {
     "icon": {
@@ -615,11 +534,7 @@
     "requirements": {
       "level": 50
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Ancient Currency": {
     "icon": {
@@ -643,10 +558,7 @@
     "requirements": {
       "level": 102
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Ancient Heart": {
     "icon": {
@@ -670,10 +582,7 @@
     "requirements": {
       "level": 45
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Ancient Metal": {
     "icon": {
@@ -691,12 +600,7 @@
     "requirements": {
       "level": 64
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Ancient Moss": {
     "icon": {
@@ -720,12 +624,7 @@
     "requirements": {
       "level": 78
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "tailoring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Ancient Panel": {
     "icon": {
@@ -749,10 +648,7 @@
     "requirements": {
       "level": 37
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Ancient Spring Water": {
     "icon": {
@@ -764,12 +660,7 @@
     "requirements": {
       "level": 62
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Angel's Blessing": {
     "icon": {
@@ -793,10 +684,7 @@
     "requirements": {
       "level": 97
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Angelic Gem": {
     "icon": {
@@ -835,10 +723,7 @@
     "requirements": {
       "level": 98
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Angler's Light": {
     "icon": {
@@ -862,10 +747,7 @@
     "requirements": {
       "level": 91
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Antique Metal": {
     "icon": {
@@ -889,11 +771,7 @@
     "requirements": {
       "level": 78
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Antler Fragment": {
     "icon": {
@@ -922,10 +800,7 @@
     "requirements": {
       "level": 87
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Apple": {
     "icon": {
@@ -943,10 +818,7 @@
     "requirements": {
       "level": 10
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Aqua Vitae": {
     "icon": {
@@ -965,10 +837,7 @@
     "requirements": {
       "level": 60
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Aquatic Beauty": {
     "icon": {
@@ -1007,10 +876,7 @@
     "requirements": {
       "level": 60
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Arcane Anomaly": {
     "icon": {
@@ -1033,11 +899,7 @@
     "requirements": {
       "level": 75
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Archaic Medallion": {
     "icon": {
@@ -1061,10 +923,7 @@
     "requirements": {
       "level": 45
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Ashen Hide": {
     "icon": {
@@ -1083,10 +942,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Ashstained Basalt": {
     "icon": {
@@ -1110,10 +966,7 @@
     "requirements": {
       "level": 94
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Aspect of the Void": {
     "icon": {
@@ -1125,11 +978,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Assorted Seeds": {
     "icon": {
@@ -1153,13 +1002,7 @@
     "requirements": {
       "level": 9
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "armouring",
-      "cooking",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Astral Alloy": {
     "icon": {
@@ -1183,10 +1026,7 @@
     "requirements": {
       "level": 76
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Atmospheric Aspect": {
     "icon": {
@@ -1220,10 +1060,7 @@
     "requirements": {
       "level": 75
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Autonomous Core": {
     "icon": {
@@ -1252,10 +1089,7 @@
     "requirements": {
       "level": 88
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Azure Blossom": {
     "icon": {
@@ -1279,10 +1113,7 @@
     "requirements": {
       "level": 80
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Ball of Slime": {
     "icon": {
@@ -1305,11 +1136,7 @@
     "requirements": {
       "level": 80
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Bamboo": {
     "icon": {
@@ -1333,13 +1160,7 @@
     "requirements": {
       "level": 80
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Bandit Rations": {
     "icon": {
@@ -1357,10 +1178,7 @@
     "requirements": {
       "level": 46
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Bat Ear": {
     "icon": {
@@ -1378,10 +1196,7 @@
     "requirements": {
       "level": 15
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Bat Heart": {
     "icon": {
@@ -1410,10 +1225,7 @@
     "requirements": {
       "level": 37
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Beak of the Nivlan Beauty": {
     "icon": {
@@ -1432,12 +1244,7 @@
     "requirements": {
       "level": 8
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Beastial Viscera": {
     "icon": {
@@ -1461,10 +1268,7 @@
     "requirements": {
       "level": 72
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Beef Tongue": {
     "icon": {
@@ -1488,10 +1292,7 @@
     "requirements": {
       "level": 25
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Big Carapace": {
     "icon": {
@@ -1515,11 +1316,7 @@
     "requirements": {
       "level": 56
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Big Jawbreaker": {
     "icon": {
@@ -1537,11 +1334,7 @@
     "requirements": {
       "level": 60
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Bioluminescent Blood": {
     "icon": {
@@ -1565,10 +1358,7 @@
     "requirements": {
       "level": 92
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Bioluminescent Moss": {
     "icon": {
@@ -1592,10 +1382,7 @@
     "requirements": {
       "level": 55
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Bionic Fiber": {
     "icon": {
@@ -1619,10 +1406,7 @@
     "requirements": {
       "level": 53
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Black Hole": {
     "icon": {
@@ -1646,11 +1430,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Black Steel": {
     "icon": {
@@ -1668,11 +1448,7 @@
     "requirements": {
       "level": 62
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Black Sulphur": {
     "icon": {
@@ -1696,11 +1472,7 @@
     "requirements": {
       "level": 45
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Blaze Powder": {
     "icon": {
@@ -1723,11 +1495,7 @@
     "requirements": {
       "level": 26
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Blazing Fireball": {
     "icon": {
@@ -1746,11 +1514,7 @@
     "requirements": {
       "level": 6
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Blazing Stimulants": {
     "icon": {
@@ -1779,10 +1543,7 @@
     "requirements": {
       "level": 58
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Blessed Heart": {
     "icon": {
@@ -1794,10 +1555,7 @@
     "requirements": {
       "level": 77
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Blighted Brain": {
     "icon": {
@@ -1821,10 +1579,7 @@
     "requirements": {
       "level": 20
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Blighted Skull": {
     "icon": {
@@ -1842,10 +1597,7 @@
     "requirements": {
       "level": 96
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Bloated Artery": {
     "icon": {
@@ -1869,11 +1621,7 @@
     "requirements": {
       "level": 55
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Blood of the Nivlan Beauty": {
     "icon": {
@@ -1897,12 +1645,7 @@
     "requirements": {
       "level": 8
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Bloodstained Remains": {
     "icon": {
@@ -1926,10 +1669,7 @@
     "requirements": {
       "level": 58
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Bloodweb": {
     "icon": {
@@ -1952,10 +1692,7 @@
     "requirements": {
       "level": 45
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Blueshift Beacon": {
     "icon": {
@@ -1979,11 +1716,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Boar Meat": {
     "icon": {
@@ -2001,10 +1734,7 @@
     "requirements": {
       "level": 9
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Bob's Tear": {
     "icon": {
@@ -2016,14 +1746,7 @@
     "requirements": {
       "level": 4
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "jeweling",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Bone Ash": {
     "icon": {
@@ -2041,11 +1764,7 @@
     "requirements": {
       "level": 14
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Bone Meal": {
     "icon": {
@@ -2063,11 +1782,7 @@
     "requirements": {
       "level": 21
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Borange Fluff": {
     "icon": {
@@ -2079,17 +1794,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "armouring",
-      "cooking",
-      "jeweling",
-      "scribing",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Bottled Decay": {
     "icon": {
@@ -2118,10 +1823,7 @@
     "requirements": {
       "level": 57
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Bottled Fairy": {
     "icon": {
@@ -2140,11 +1842,7 @@
     "requirements": {
       "level": 45
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Braveheart": {
     "icon": {
@@ -2168,11 +1866,7 @@
     "requirements": {
       "level": 78
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Bright Petal": {
     "icon": {
@@ -2195,10 +1889,7 @@
     "requirements": {
       "level": 73
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Broken Antic Bead": {
     "icon": {
@@ -2221,10 +1912,7 @@
     "requirements": {
       "level": 55
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Broken Dagger": {
     "icon": {
@@ -2243,10 +1931,7 @@
     "requirements": {
       "level": 73
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Broken Fiddle": {
     "icon": {
@@ -2275,10 +1960,7 @@
     "requirements": {
       "level": 63
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Broken Helmet": {
     "icon": {
@@ -2301,10 +1983,7 @@
     "requirements": {
       "level": 92
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Broken Pick": {
     "icon": {
@@ -2327,10 +2006,7 @@
     "requirements": {
       "level": 96
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Broken Ram Horn": {
     "icon": {
@@ -2348,11 +2024,7 @@
     "requirements": {
       "level": 56
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Broken Steel Blade": {
     "icon": {
@@ -2376,10 +2048,7 @@
     "requirements": {
       "level": 55
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Broken Steel Hook": {
     "icon": {
@@ -2403,10 +2072,7 @@
     "requirements": {
       "level": 55
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Brown Mushroom": {
     "icon": {
@@ -2424,10 +2090,7 @@
     "requirements": {
       "level": 1
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Bug Parts": {
     "icon": {
@@ -2450,11 +2113,7 @@
     "requirements": {
       "level": 22
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Burial Talisman": {
     "icon": {
@@ -2483,10 +2142,7 @@
     "requirements": {
       "level": 36
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Burning Soul": {
     "icon": {
@@ -2510,11 +2166,7 @@
     "requirements": {
       "level": 85
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Burnt Skull": {
     "icon": {
@@ -2538,10 +2190,7 @@
     "requirements": {
       "level": 9
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Calcified Ligament": {
     "icon": {
@@ -2564,11 +2213,7 @@
     "requirements": {
       "level": 102
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Calmed Thunder": {
     "icon": {
@@ -2592,11 +2237,7 @@
     "requirements": {
       "level": 96
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Candy Button": {
     "icon": {
@@ -2614,11 +2255,7 @@
     "requirements": {
       "level": 60
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Canned Sardines": {
     "icon": {
@@ -2647,10 +2284,7 @@
     "requirements": {
       "level": 50
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Canyon Parsley": {
     "icon": {
@@ -2679,10 +2313,7 @@
     "requirements": {
       "level": 18
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Captain's Glass": {
     "icon": {
@@ -2706,11 +2337,7 @@
     "requirements": {
       "level": 28
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Carapace Fragment": {
     "icon": {
@@ -2734,11 +2361,7 @@
     "requirements": {
       "level": 23
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Cat Food": {
     "icon": {
@@ -2762,11 +2385,7 @@
     "requirements": {
       "level": 28
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Cat Tail": {
     "icon": {
@@ -2785,10 +2404,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Cat's Ears": {
     "icon": {
@@ -2817,10 +2433,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Cataratite": {
     "icon": {
@@ -2839,11 +2452,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Cavitated Bone": {
     "icon": {
@@ -2872,11 +2481,7 @@
     "requirements": {
       "level": 104
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Chain Loop": {
     "icon": {
@@ -2900,10 +2505,7 @@
     "requirements": {
       "level": 35
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Chaotic Embers": {
     "icon": {
@@ -2927,10 +2529,7 @@
     "requirements": {
       "level": 30
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Charcoal Lump": {
     "icon": {
@@ -2948,10 +2547,7 @@
     "requirements": {
       "level": 89
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Charred Bone": {
     "icon": {
@@ -2970,11 +2566,7 @@
     "requirements": {
       "level": 9
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Charred Carapace": {
     "icon": {
@@ -2997,10 +2589,7 @@
     "requirements": {
       "level": 87
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Cherry Sapling": {
     "icon": {
@@ -3024,10 +2613,7 @@
     "requirements": {
       "level": 78
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Chipped Quartz": {
     "icon": {
@@ -3051,11 +2637,7 @@
     "requirements": {
       "level": 45
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Chitin Plate": {
     "icon": {
@@ -3079,13 +2661,7 @@
     "requirements": {
       "level": 64
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Chromatic Bloom": {
     "icon": {
@@ -3134,10 +2710,7 @@
     "requirements": {
       "level": 80
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Chunky Ash": {
     "icon": {
@@ -3165,10 +2738,7 @@
     "requirements": {
       "level": 89
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Claw of Demise": {
     "icon": {
@@ -3197,11 +2767,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Cleaned Saccharum": {
     "icon": {
@@ -3225,11 +2791,7 @@
     "requirements": {
       "level": 3
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Climber's Padding": {
     "icon": {
@@ -3252,11 +2814,7 @@
     "requirements": {
       "level": 60
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Cloudtwine": {
     "icon": {
@@ -3285,11 +2843,7 @@
     "requirements": {
       "level": 82
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Coagulated Blood Gelatin": {
     "icon": {
@@ -3313,11 +2867,7 @@
     "requirements": {
       "level": 80
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Coagulated Clot": {
     "icon": {
@@ -3336,11 +2886,7 @@
     "requirements": {
       "level": 7
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Coagulated Soulmass": {
     "icon": {
@@ -3359,10 +2905,7 @@
     "requirements": {
       "level": 30
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Coalescence": {
     "icon": {
@@ -3374,10 +2917,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Coastal Sand": {
     "icon": {
@@ -3395,10 +2935,7 @@
     "requirements": {
       "level": 1
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Coastal Shell": {
     "icon": {
@@ -3417,10 +2954,7 @@
     "requirements": {
       "level": 19
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Cocoa Caps": {
     "icon": {
@@ -3438,11 +2972,7 @@
     "requirements": {
       "level": 65
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Colossus' Shard": {
     "icon": {
@@ -3466,10 +2996,7 @@
     "requirements": {
       "level": 88
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Compressed Aspect": {
     "icon": {
@@ -3503,10 +3030,7 @@
     "requirements": {
       "level": 75
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Condensed Darkness": {
     "icon": {
@@ -3535,11 +3059,7 @@
     "requirements": {
       "level": 102
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Condor Feather": {
     "icon": {
@@ -3558,10 +3078,7 @@
     "requirements": {
       "level": 35
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Conflagrite": {
     "icon": {
@@ -3585,11 +3102,7 @@
     "requirements": {
       "level": 72
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Congealed Slime": {
     "icon": {
@@ -3613,10 +3126,7 @@
     "requirements": {
       "level": 80
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Conscription Letter": {
     "icon": {
@@ -3634,10 +3144,7 @@
     "requirements": {
       "level": 25
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Consecrated Ivory": {
     "icon": {
@@ -3661,11 +3168,7 @@
     "requirements": {
       "level": 60
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Contorted Stone": {
     "icon": {
@@ -3694,10 +3197,7 @@
     "requirements": {
       "level": 97
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Contraband Absinthe": {
     "icon": {
@@ -3736,10 +3236,7 @@
     "requirements": {
       "level": 36
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Contraband Hibiscus": {
     "icon": {
@@ -3778,10 +3275,7 @@
     "requirements": {
       "level": 36
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Contraband Miracle Berry": {
     "icon": {
@@ -3805,10 +3299,7 @@
     "requirements": {
       "level": 36
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Corbys Innards": {
     "icon": {
@@ -3826,10 +3317,7 @@
     "requirements": {
       "level": 81
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Corn Husk": {
     "icon": {
@@ -3848,11 +3336,7 @@
     "requirements": {
       "level": 23
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Corroded Chunk": {
     "icon": {
@@ -3875,11 +3359,7 @@
     "requirements": {
       "level": 51
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Corrupted Beef": {
     "icon": {
@@ -3903,10 +3383,7 @@
     "requirements": {
       "level": 15
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Corrupted Bracken": {
     "icon": {
@@ -3930,11 +3407,7 @@
     "requirements": {
       "level": 25
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Corrupted Fragment": {
     "icon": {
@@ -3963,13 +3436,7 @@
     "requirements": {
       "level": 7
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Corrupted Ichor": {
     "icon": {
@@ -3993,10 +3460,7 @@
     "requirements": {
       "level": 10
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Corrupted Metal Scrap": {
     "icon": {
@@ -4020,11 +3484,7 @@
     "requirements": {
       "level": 39
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Corruption Shard": {
     "icon": {
@@ -4042,12 +3502,7 @@
     "requirements": {
       "level": 7
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Cortrich Eggs": {
     "icon": {
@@ -4066,10 +3521,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Coyote Fang": {
     "icon": {
@@ -4087,10 +3539,7 @@
     "requirements": {
       "level": 34
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Cracked Geode": {
     "icon": {
@@ -4109,11 +3558,7 @@
     "requirements": {
       "level": 24
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Cracked Skin": {
     "icon": {
@@ -4136,11 +3581,7 @@
     "requirements": {
       "level": 30
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Crawler Eye": {
     "icon": {
@@ -4163,10 +3604,7 @@
     "requirements": {
       "level": 32
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Crawler Sludge": {
     "icon": {
@@ -4189,11 +3627,7 @@
     "requirements": {
       "level": 25
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Crawler Web": {
     "icon": {
@@ -4211,10 +3645,7 @@
     "requirements": {
       "level": 31
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Creepvine Cluster": {
     "icon": {
@@ -4243,10 +3674,7 @@
     "requirements": {
       "level": 55
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Crumbling Skull": {
     "icon": {
@@ -4258,10 +3686,7 @@
     "requirements": {
       "level": 10
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Crumbly Rock": {
     "icon": {
@@ -4279,11 +3704,7 @@
     "requirements": {
       "level": 58
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Crystal Dust": {
     "icon": {
@@ -4307,11 +3728,7 @@
     "requirements": {
       "level": 35
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Crystalline Growth": {
     "icon": {
@@ -4335,11 +3752,7 @@
     "requirements": {
       "level": 87
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Crystallized Organ": {
     "icon": {
@@ -4358,10 +3771,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Cultist Ashes": {
     "icon": {
@@ -4385,13 +3795,7 @@
     "requirements": {
       "level": 15
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Curse Gland": {
     "icon": {
@@ -4415,10 +3819,7 @@
     "requirements": {
       "level": 66
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Cursed Ashes": {
     "icon": {
@@ -4437,10 +3838,7 @@
     "requirements": {
       "level": 65
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Cursed Venom Sac": {
     "icon": {
@@ -4458,10 +3856,7 @@
     "requirements": {
       "level": 53
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Cursed Wings": {
     "icon": {
@@ -4490,11 +3885,7 @@
     "requirements": {
       "level": 99
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Cyclone Blue Leaves": {
     "icon": {
@@ -4518,10 +3909,7 @@
     "requirements": {
       "level": 53
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Cyclops Eye": {
     "icon": {
@@ -4540,11 +3928,7 @@
     "requirements": {
       "level": 84
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Cystic Lard": {
     "icon": {
@@ -4562,11 +3946,7 @@
     "requirements": {
       "level": 102
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Dark Iris": {
     "icon": {
@@ -4590,10 +3970,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Dark Matter": {
     "icon": {
@@ -4617,10 +3994,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Dead Bee": {
     "icon": {
@@ -4644,10 +4018,7 @@
     "requirements": {
       "level": 5
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Dead Naval Shard": {
     "icon": {
@@ -4665,10 +4036,7 @@
     "requirements": {
       "level": 31
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Death Whistle Leaf": {
     "icon": {
@@ -4680,12 +4048,7 @@
     "requirements": {
       "level": 53
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Decaying Arteries": {
     "icon": {
@@ -4708,10 +4071,7 @@
     "requirements": {
       "level": 103
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Decaying Heart": {
     "icon": {
@@ -4723,11 +4083,7 @@
     "requirements": {
       "level": 66
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Decaying Skin": {
     "icon": {
@@ -4745,10 +4101,7 @@
     "requirements": {
       "level": 22
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Deep Ice Core": {
     "icon": {
@@ -4777,12 +4130,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Deepborn Scavenger": {
     "icon": {
@@ -4806,10 +4154,7 @@
     "requirements": {
       "level": 91
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Defective Circuits": {
     "icon": {
@@ -4838,10 +4183,7 @@
     "requirements": {
       "level": 85
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Defender's Stone": {
     "icon": {
@@ -4870,11 +4212,7 @@
     "requirements": {
       "level": 6
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Defiled Luxroot": {
     "icon": {
@@ -4898,11 +4236,7 @@
     "requirements": {
       "level": 64
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Defishious": {
     "icon": {
@@ -4921,10 +4255,7 @@
     "requirements": {
       "level": 42
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Demonic Ashes": {
     "icon": {
@@ -4947,10 +4278,7 @@
     "requirements": {
       "level": 95
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Demonic Blood": {
     "icon": {
@@ -4974,12 +4302,7 @@
     "requirements": {
       "level": 99
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "cooking",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Dense Void Hole Chunk": {
     "icon": {
@@ -5003,10 +4326,7 @@
     "requirements": {
       "level": 104
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Depreciating Flesh": {
     "icon": {
@@ -5024,11 +4344,7 @@
     "requirements": {
       "level": 15
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Depth's Gem": {
     "icon": {
@@ -5052,11 +4368,7 @@
     "requirements": {
       "level": 78
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Depurinated Genome": {
     "icon": {
@@ -5105,11 +4417,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Dernic Hydroid": {
     "icon": {
@@ -5138,10 +4446,7 @@
     "requirements": {
       "level": 104
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Dernic Parasite": {
     "icon": {
@@ -5170,10 +4475,7 @@
     "requirements": {
       "level": 104
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Dernic Sludgebomb": {
     "icon": {
@@ -5202,11 +4504,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Desert Fossil": {
     "icon": {
@@ -5230,10 +4528,7 @@
     "requirements": {
       "level": 30
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Devilish Delight": {
     "icon": {
@@ -5257,10 +4552,7 @@
     "requirements": {
       "level": 63
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Devourer's Maw": {
     "icon": {
@@ -5289,10 +4581,7 @@
     "requirements": {
       "level": 68
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Digestible Fungi": {
     "icon": {
@@ -5321,10 +4610,7 @@
     "requirements": {
       "level": 12
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Diseased Fluids": {
     "icon": {
@@ -5348,11 +4634,7 @@
     "requirements": {
       "level": 80
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Disturbed Aspect": {
     "icon": {
@@ -5386,11 +4668,7 @@
     "requirements": {
       "level": 77
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Disturbed Dye": {
     "icon": {
@@ -5409,10 +4687,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Dizzying Void": {
     "icon": {
@@ -5431,11 +4706,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Dogun Alert Sigil": {
     "icon": {
@@ -5464,11 +4735,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Dominant Force": {
     "icon": {
@@ -5480,11 +4747,7 @@
     "requirements": {
       "level": 50
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Doom Stone": {
     "icon": {
@@ -5496,11 +4759,7 @@
     "requirements": {
       "level": 103
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Draconic Bone Marrow": {
     "icon": {
@@ -5512,11 +4771,7 @@
     "requirements": {
       "level": 96
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Dragon Aura": {
     "icon": {
@@ -5540,10 +4795,7 @@
     "requirements": {
       "level": 98
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Dragonling Egg": {
     "icon": {
@@ -5572,10 +4824,7 @@
     "requirements": {
       "level": 98
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Dragonling Scale": {
     "icon": {
@@ -5603,10 +4852,7 @@
     "requirements": {
       "level": 98
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Drained Bone": {
     "icon": {
@@ -5624,11 +4870,7 @@
     "requirements": {
       "level": 12
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Dried Gill": {
     "icon": {
@@ -5652,10 +4894,7 @@
     "requirements": {
       "level": 15
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Dried Kelp": {
     "icon": {
@@ -5674,12 +4913,7 @@
     "requirements": {
       "level": 33
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Dry Bone": {
     "icon": {
@@ -5690,11 +4924,7 @@
     "requirements": {
       "level": 33
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Dry Seeds": {
     "icon": {
@@ -5717,11 +4947,7 @@
     "requirements": {
       "level": 20
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Durable Skin": {
     "icon": {
@@ -5745,11 +4971,7 @@
     "requirements": {
       "level": 77
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Earthly Aura": {
     "icon": {
@@ -5773,10 +4995,7 @@
     "requirements": {
       "level": 84
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Earthly Pebble": {
     "icon": {
@@ -5795,10 +5014,7 @@
     "requirements": {
       "level": 6
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Egg": {
     "icon": {
@@ -5816,10 +5032,7 @@
     "requirements": {
       "level": 2
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Electromagnetic Shield Plating": {
     "icon": {
@@ -5848,10 +5061,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Electroplasm": {
     "icon": {
@@ -5870,13 +5080,7 @@
     "requirements": {
       "level": 26
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Elemental Crystal": {
     "icon": {
@@ -5915,13 +5119,7 @@
     "requirements": {
       "level": 70
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Elephant Toenail": {
     "icon": {
@@ -5940,10 +5138,7 @@
     "requirements": {
       "level": 85
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Elephelk Trunk": {
     "icon": {
@@ -5967,14 +5162,7 @@
     "requirements": {
       "level": 86
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Empty Casings": {
     "icon": {
@@ -5998,10 +5186,7 @@
     "requirements": {
       "level": 45
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Enchanted Chain Link": {
     "icon": {
@@ -6030,11 +5215,7 @@
     "requirements": {
       "level": 50
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Energetic Aura": {
     "icon": {
@@ -6058,10 +5239,7 @@
     "requirements": {
       "level": 80
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Engored Oculus": {
     "icon": {
@@ -6090,11 +5268,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Engraved Tablet": {
     "icon": {
@@ -6118,11 +5292,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Enhanced Behaviour Microchip": {
     "icon": {
@@ -6146,12 +5316,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Enhanced Dynamics Microchip": {
     "icon": {
@@ -6175,12 +5340,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Enhanced Pathfinding Microchip": {
     "icon": {
@@ -6204,12 +5364,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Enhanced Physics Microchip": {
     "icon": {
@@ -6233,12 +5388,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Enhanced Post-Processing Microchip": {
     "icon": {
@@ -6262,12 +5412,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Enhanced Potential Microchip": {
     "icon": {
@@ -6291,12 +5436,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Enraged Soul": {
     "icon": {
@@ -6315,11 +5455,7 @@
     "requirements": {
       "level": 27
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Epipelagic Eye": {
     "icon": {
@@ -6343,10 +5479,7 @@
     "requirements": {
       "level": 92
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Erratic Aspect": {
     "icon": {
@@ -6380,10 +5513,7 @@
     "requirements": {
       "level": 76
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Essence Of Dusk": {
     "icon": {
@@ -6407,11 +5537,7 @@
     "requirements": {
       "level": 64
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Essence of Dissolution": {
     "icon": {
@@ -6433,10 +5559,7 @@
     "requirements": {
       "level": 99
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Eternal Flame": {
     "icon": {
@@ -6470,10 +5593,7 @@
     "requirements": {
       "level": 37
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Etheric Fern": {
     "icon": {
@@ -6485,10 +5605,7 @@
     "requirements": {
       "level": 78
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Evaporated Aspect": {
     "icon": {
@@ -6522,11 +5639,7 @@
     "requirements": {
       "level": 77
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Evolving Spores": {
     "icon": {
@@ -6575,10 +5688,7 @@
     "requirements": {
       "level": 77
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Expelled Shrapnel": {
     "icon": {
@@ -6601,11 +5711,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Extremely Dense Pebble": {
     "icon": {
@@ -6634,10 +5740,7 @@
     "requirements": {
       "level": 99
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Extremophile Pelt": {
     "icon": {
@@ -6661,10 +5764,7 @@
     "requirements": {
       "level": 104
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Eye of The Beast": {
     "icon": {
@@ -6688,10 +5788,7 @@
     "requirements": {
       "level": 50
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Eyes Yet Open": {
     "icon": {
@@ -6720,11 +5817,7 @@
     "requirements": {
       "level": 104
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Faebloom Petal": {
     "icon": {
@@ -6753,10 +5846,7 @@
     "requirements": {
       "level": 65
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Fairy Dust": {
     "icon": {
@@ -6774,10 +5864,7 @@
     "requirements": {
       "level": 72
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Fairy Powder": {
     "icon": {
@@ -6806,10 +5893,7 @@
     "requirements": {
       "level": 99
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Familiar Essence": {
     "icon": {
@@ -6828,11 +5912,7 @@
     "requirements": {
       "level": 10
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Fancy Pelt": {
     "icon": {
@@ -6856,10 +5936,7 @@
     "requirements": {
       "level": 85
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Farcor's Trust": {
     "icon": {
@@ -6883,10 +5960,7 @@
     "requirements": {
       "level": 99
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Fathomflooded Flesh": {
     "icon": {
@@ -6925,10 +5999,7 @@
     "requirements": {
       "level": 93
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Feather of Grace": {
     "icon": {
@@ -6947,11 +6018,7 @@
     "requirements": {
       "level": 8
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Feline Claws": {
     "icon": {
@@ -6974,10 +6041,7 @@
     "requirements": {
       "level": 62
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Festering Face": {
     "icon": {
@@ -7001,11 +6065,7 @@
     "requirements": {
       "level": 55
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Fiberglass Frame": {
     "icon": {
@@ -7029,11 +6089,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Fiery Aura": {
     "icon": {
@@ -7057,10 +6113,7 @@
     "requirements": {
       "level": 88
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Fiery Essence": {
     "icon": {
@@ -7079,11 +6132,7 @@
     "requirements": {
       "level": 30
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Fighting Stick": {
     "icon": {
@@ -7112,11 +6161,7 @@
     "requirements": {
       "level": 89
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Firefly Dust": {
     "icon": {
@@ -7134,11 +6179,7 @@
     "requirements": {
       "level": 15
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Fish Scales": {
     "icon": {
@@ -7161,10 +6202,7 @@
     "requirements": {
       "level": 75
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Fish Tail": {
     "icon": {
@@ -7188,10 +6226,7 @@
     "requirements": {
       "level": 42
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Fissured Tablet": {
     "icon": {
@@ -7215,10 +6250,7 @@
     "requirements": {
       "level": 98
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Flameheart": {
     "icon": {
@@ -7242,11 +6274,7 @@
     "requirements": {
       "level": 84
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Flashfrost": {
     "icon": {
@@ -7270,10 +6298,7 @@
     "requirements": {
       "level": 47
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Flerisi Bark": {
     "icon": {
@@ -7302,11 +6327,7 @@
     "requirements": {
       "level": 92
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Flesh-forged Circuit": {
     "icon": {
@@ -7330,11 +6351,7 @@
     "requirements": {
       "level": 50
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Fleshbark": {
     "icon": {
@@ -7358,11 +6375,7 @@
     "requirements": {
       "level": 103
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Float Stone": {
     "icon": {
@@ -7386,10 +6399,7 @@
     "requirements": {
       "level": 98
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Flow of Fate": {
     "icon": {
@@ -7413,10 +6423,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Fluffy Fur": {
     "icon": {
@@ -7439,10 +6446,7 @@
     "requirements": {
       "level": 89
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Flugsvamp Cap": {
     "icon": {
@@ -7461,10 +6465,7 @@
     "requirements": {
       "level": 8
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Fluid Light": {
     "icon": {
@@ -7488,11 +6489,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Flytrap Fangs": {
     "icon": {
@@ -7516,10 +6513,7 @@
     "requirements": {
       "level": 77
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Forest Web": {
     "icon": {
@@ -7537,12 +6531,7 @@
     "requirements": {
       "level": 3
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "tailoring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Forgotten Axe": {
     "icon": {
@@ -7561,10 +6550,7 @@
     "requirements": {
       "level": 13
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Forgotten Pickaxe": {
     "icon": {
@@ -7588,11 +6574,7 @@
     "requirements": {
       "level": 96
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Foul Fairy Dust": {
     "icon": {
@@ -7616,11 +6598,7 @@
     "requirements": {
       "level": 43
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Foul Fluid": {
     "icon": {
@@ -7644,11 +6622,7 @@
     "requirements": {
       "level": 71
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Fragmentation": {
     "icon": {
@@ -7672,11 +6646,7 @@
     "requirements": {
       "level": 101
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Frenetic Heart": {
     "icon": {
@@ -7688,11 +6658,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Fresh Bone": {
     "icon": {
@@ -7715,11 +6681,7 @@
     "requirements": {
       "level": 61
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Fresh Game": {
     "icon": {
@@ -7738,10 +6700,7 @@
     "requirements": {
       "level": 70
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Fresh Water": {
     "icon": {
@@ -7759,12 +6718,7 @@
     "requirements": {
       "level": 5
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Frostbitten Flesh": {
     "icon": {
@@ -7788,11 +6742,7 @@
     "requirements": {
       "level": 44
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Frostbound Memory": {
     "icon": {
@@ -7821,10 +6771,7 @@
     "requirements": {
       "level": 92
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Frozen Ghostly Essence": {
     "icon": {
@@ -7853,10 +6800,7 @@
     "requirements": {
       "level": 46
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Fuming Lava Rock": {
     "icon": {
@@ -7880,12 +6824,7 @@
     "requirements": {
       "level": 23
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "jeweling",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Fungi Spores": {
     "icon": {
@@ -7903,10 +6842,7 @@
     "requirements": {
       "level": 7
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Galvanic Stone": {
     "icon": {
@@ -7930,13 +6866,7 @@
     "requirements": {
       "level": 54
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Gaze of Darkness": {
     "icon": {
@@ -7965,10 +6895,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Gelatinous Slime Chunk": {
     "icon": {
@@ -7987,12 +6914,7 @@
     "requirements": {
       "level": 52
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Generator Chip": {
     "icon": {
@@ -8016,11 +6938,7 @@
     "requirements": {
       "level": 72
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Gert Skin": {
     "icon": {
@@ -8038,10 +6956,7 @@
     "requirements": {
       "level": 78
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Ghostly Essence": {
     "icon": {
@@ -8060,11 +6975,7 @@
     "requirements": {
       "level": 48
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Ghostly Membrane": {
     "icon": {
@@ -8082,11 +6993,7 @@
     "requirements": {
       "level": 70
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Ghostly Plume": {
     "icon": {
@@ -8104,11 +7011,7 @@
     "requirements": {
       "level": 98
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Giant Petal": {
     "icon": {
@@ -8132,12 +7035,7 @@
     "requirements": {
       "level": 79
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Giant Sword Shard": {
     "icon": {
@@ -8171,10 +7069,7 @@
     "requirements": {
       "level": 101
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Giant Teratoma": {
     "icon": {
@@ -8203,11 +7098,7 @@
     "requirements": {
       "level": 104
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Gilded Bark": {
     "icon": {
@@ -8236,10 +7127,7 @@
     "requirements": {
       "level": 74
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Glacial Anomaly": {
     "icon": {
@@ -8263,11 +7151,7 @@
     "requirements": {
       "level": 92
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Glimmering Beak": {
     "icon": {
@@ -8291,10 +7175,7 @@
     "requirements": {
       "level": 97
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Glimmering Coin": {
     "icon": {
@@ -8323,13 +7204,7 @@
     "requirements": {
       "level": 26
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Glittering Silt": {
     "icon": {
@@ -8353,11 +7228,7 @@
     "requirements": {
       "level": 31
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Gloomy Orb": {
     "icon": {
@@ -8381,10 +7252,7 @@
     "requirements": {
       "level": 57
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Glow Bulb Seeds": {
     "icon": {
@@ -8413,11 +7281,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Glowing Scales": {
     "icon": {
@@ -8441,10 +7305,7 @@
     "requirements": {
       "level": 72
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Glowing Tree Sap": {
     "icon": {
@@ -8473,10 +7334,7 @@
     "requirements": {
       "level": 14
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Goblin Tooth": {
     "icon": {
@@ -8499,10 +7357,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Goblin Trinket": {
     "icon": {
@@ -8531,10 +7386,7 @@
     "requirements": {
       "level": 42
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Gold": {
     "icon": {
@@ -8557,11 +7409,7 @@
     "requirements": {
       "level": 82
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Gold Bar": {
     "icon": {
@@ -8584,10 +7432,7 @@
     "requirements": {
       "level": 31
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Gold Nugget": {
     "icon": {
@@ -8605,10 +7450,7 @@
     "requirements": {
       "level": 42
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Gold Tooth": {
     "icon": {
@@ -8626,10 +7468,7 @@
     "requirements": {
       "level": 25
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Golden Avia Feather": {
     "icon": {
@@ -8641,11 +7480,7 @@
     "requirements": {
       "level": 86
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Golden Coin": {
     "icon": {
@@ -8669,11 +7504,7 @@
     "requirements": {
       "level": 74
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Gollier Iron": {
     "icon": {
@@ -8696,11 +7527,7 @@
     "requirements": {
       "level": 74
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Gravitation Crystal": {
     "icon": {
@@ -8724,11 +7551,7 @@
     "requirements": {
       "level": 95
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Green Foot": {
     "icon": {
@@ -8757,10 +7580,7 @@
     "requirements": {
       "level": 103
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Green Opal": {
     "icon": {
@@ -8784,10 +7604,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Green Scale": {
     "icon": {
@@ -8811,11 +7628,7 @@
     "requirements": {
       "level": 44
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Grey Cloud": {
     "icon": {
@@ -8838,10 +7651,7 @@
     "requirements": {
       "level": 96
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Gritty Rocks": {
     "icon": {
@@ -8864,10 +7674,7 @@
     "requirements": {
       "level": 32
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Grook Feather": {
     "icon": {
@@ -8885,10 +7692,7 @@
     "requirements": {
       "level": 5
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Grootslang Fin": {
     "icon": {
@@ -8912,10 +7716,7 @@
     "requirements": {
       "level": 55
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Gruesome Carnassial": {
     "icon": {
@@ -8939,10 +7740,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Gunkfueled Core": {
     "icon": {
@@ -8971,11 +7769,7 @@
     "requirements": {
       "level": 103
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Gunpowder": {
     "icon": {
@@ -8994,11 +7788,7 @@
     "requirements": {
       "level": 37
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Gylia Essence": {
     "icon": {
@@ -9027,10 +7817,7 @@
     "requirements": {
       "level": 77
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Haleva Plant": {
     "icon": {
@@ -9054,11 +7841,7 @@
     "requirements": {
       "level": 23
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Haphazard Serum": {
     "icon": {
@@ -9087,10 +7870,7 @@
     "requirements": {
       "level": 99
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Hardened Magma": {
     "icon": {
@@ -9108,11 +7888,7 @@
     "requirements": {
       "level": 87
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Hardened Mandible": {
     "icon": {
@@ -9136,11 +7912,7 @@
     "requirements": {
       "level": 91
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Haros' Broken Badge": {
     "icon": {
@@ -9164,10 +7936,7 @@
     "requirements": {
       "level": 30
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Harpy Bone": {
     "icon": {
@@ -9185,11 +7954,7 @@
     "requirements": {
       "level": 82
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Harpy Wing": {
     "icon": {
@@ -9213,11 +7978,7 @@
     "requirements": {
       "level": 84
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Hatchling Remnant": {
     "icon": {
@@ -9241,11 +8002,7 @@
     "requirements": {
       "level": 75
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Helio Wing": {
     "icon": {
@@ -9274,11 +8031,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Hellish Cinders": {
     "icon": {
@@ -9307,11 +8060,7 @@
     "requirements": {
       "level": 63
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Herbal Extract": {
     "icon": {
@@ -9340,10 +8089,7 @@
     "requirements": {
       "level": 14
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Herbstzeitlose": {
     "icon": {
@@ -9367,10 +8113,7 @@
     "requirements": {
       "level": 56
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Highland Basil": {
     "icon": {
@@ -9399,10 +8142,7 @@
     "requirements": {
       "level": 17
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Hollow Psyche": {
     "icon": {
@@ -9426,11 +8166,7 @@
     "requirements": {
       "level": 97
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Holy Powder": {
     "icon": {
@@ -9453,10 +8189,7 @@
     "requirements": {
       "level": 98
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Horse Mane": {
     "icon": {
@@ -9480,11 +8213,7 @@
     "requirements": {
       "level": 22
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Hunter's Disguise": {
     "icon": {
@@ -9503,10 +8232,7 @@
     "requirements": {
       "level": 78
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Hybrid Skin": {
     "icon": {
@@ -9529,10 +8255,7 @@
     "requirements": {
       "level": 87
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Hydrofluoric Acid": {
     "icon": {
@@ -9556,11 +8279,7 @@
     "requirements": {
       "level": 97
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Ibjub Fruit": {
     "icon": {
@@ -9584,10 +8303,7 @@
     "requirements": {
       "level": 60
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Ice Cream Sandwich": {
     "icon": {
@@ -9605,11 +8321,7 @@
     "requirements": {
       "level": 65
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Ice Fishing Bait": {
     "icon": {
@@ -9638,10 +8350,7 @@
     "requirements": {
       "level": 41
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Ice Fishing Hook": {
     "icon": {
@@ -9670,10 +8379,7 @@
     "requirements": {
       "level": 41
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Ice Fishing Net": {
     "icon": {
@@ -9702,11 +8408,7 @@
     "requirements": {
       "level": 41
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Ice Fishing Twine": {
     "icon": {
@@ -9735,10 +8437,7 @@
     "requirements": {
       "level": 41
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Ice Silver": {
     "icon": {
@@ -9762,11 +8461,7 @@
     "requirements": {
       "level": 42
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Ice Sliver": {
     "icon": {
@@ -9784,11 +8479,7 @@
     "requirements": {
       "level": 40
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Iceberries": {
     "icon": {
@@ -9807,10 +8498,7 @@
     "requirements": {
       "level": 75
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Icy Crampons": {
     "icon": {
@@ -9834,12 +8522,7 @@
     "requirements": {
       "level": 48
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Icy Shard": {
     "icon": {
@@ -9862,10 +8545,7 @@
     "requirements": {
       "level": 45
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Igneous Aspect": {
     "icon": {
@@ -9899,11 +8579,7 @@
     "requirements": {
       "level": 75
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Igneous Thread": {
     "icon": {
@@ -9927,10 +8603,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Ignited Faebloom": {
     "icon": {
@@ -9974,12 +8647,7 @@
     "requirements": {
       "level": 67
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Illicit Hemlock": {
     "icon": {
@@ -10003,11 +8671,7 @@
     "requirements": {
       "level": 33
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Illicit Quince": {
     "icon": {
@@ -10031,11 +8695,7 @@
     "requirements": {
       "level": 33
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Illicit Tingflower": {
     "icon": {
@@ -10059,11 +8719,7 @@
     "requirements": {
       "level": 33
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Illicit Whitethorn": {
     "icon": {
@@ -10087,11 +8743,7 @@
     "requirements": {
       "level": 33
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Illicit Yarrow": {
     "icon": {
@@ -10115,11 +8767,7 @@
     "requirements": {
       "level": 33
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Illuminated Spirit": {
     "icon": {
@@ -10142,10 +8790,7 @@
     "requirements": {
       "level": 75
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Illusory Idol": {
     "icon": {
@@ -10174,10 +8819,7 @@
     "requirements": {
       "level": 84
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Impure Nullity": {
     "icon": {
@@ -10201,10 +8843,7 @@
     "requirements": {
       "level": 99
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Inactive Rune": {
     "icon": {
@@ -10233,11 +8872,7 @@
     "requirements": {
       "level": 97
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Incremental Mapping Module": {
     "icon": {
@@ -10266,11 +8901,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Infected Mass": {
     "icon": {
@@ -10282,11 +8913,7 @@
     "requirements": {
       "level": 104
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Infernal Antifreeze": {
     "icon": {
@@ -10320,10 +8947,7 @@
     "requirements": {
       "level": 99
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Infernal Flesh": {
     "icon": {
@@ -10352,10 +8976,7 @@
     "requirements": {
       "level": 94
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Infused Gold": {
     "icon": {
@@ -10374,10 +8995,7 @@
     "requirements": {
       "level": 18
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Insanity Star": {
     "icon": {
@@ -10421,11 +9039,7 @@
     "requirements": {
       "level": 103
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Insulated Wiring": {
     "icon": {
@@ -10454,10 +9068,7 @@
     "requirements": {
       "level": 84
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Intermittenstirrups": {
     "icon": {
@@ -10481,12 +9092,7 @@
     "requirements": {
       "level": 27
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Inverted Grotesque": {
     "icon": {
@@ -10520,10 +9126,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Iridescent Elytra": {
     "icon": {
@@ -10552,12 +9155,7 @@
     "requirements": {
       "level": 68
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "jeweling",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Ironwood Chips": {
     "icon": {
@@ -10586,13 +9184,7 @@
     "requirements": {
       "level": 70
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Ironwood Scale": {
     "icon": {
@@ -10621,10 +9213,7 @@
     "requirements": {
       "level": 65
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Ivory Tusk": {
     "icon": {
@@ -10648,10 +9237,7 @@
     "requirements": {
       "level": 86
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Ivy Sprout": {
     "icon": {
@@ -10680,10 +9266,7 @@
     "requirements": {
       "level": 73
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Jagged Icicle": {
     "icon": {
@@ -10707,10 +9290,7 @@
     "requirements": {
       "level": 45
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Je Ne Sais Quoi": {
     "icon": {
@@ -10734,10 +9314,7 @@
     "requirements": {
       "level": 81
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Jolting Geode": {
     "icon": {
@@ -10761,10 +9338,7 @@
     "requirements": {
       "level": 13
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Kaian Scroll": {
     "icon": {
@@ -10783,10 +9357,7 @@
     "requirements": {
       "level": 94
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Kaolin Clay": {
     "icon": {
@@ -10815,10 +9386,7 @@
     "requirements": {
       "level": 22
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Karl Johan Cap": {
     "icon": {
@@ -10837,10 +9405,7 @@
     "requirements": {
       "level": 7
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Kerasot Sporehead": {
     "icon": {
@@ -10869,10 +9434,7 @@
     "requirements": {
       "level": 66
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Lactic Acid Crystal": {
     "icon": {
@@ -10896,10 +9458,7 @@
     "requirements": {
       "level": 103
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Larbonic Sheddings": {
     "icon": {
@@ -10928,10 +9487,7 @@
     "requirements": {
       "level": 103
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Large Lapis": {
     "icon": {
@@ -10955,10 +9511,7 @@
     "requirements": {
       "level": 49
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Large Titanium Chunk": {
     "icon": {
@@ -10982,11 +9535,7 @@
     "requirements": {
       "level": 70
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Larvae Cluster": {
     "icon": {
@@ -11010,10 +9559,7 @@
     "requirements": {
       "level": 77
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Laryngeal Flesh": {
     "icon": {
@@ -11037,10 +9583,7 @@
     "requirements": {
       "level": 22
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Lashing Hellfire": {
     "icon": {
@@ -11052,11 +9595,7 @@
     "requirements": {
       "level": 63
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Lava Blisters": {
     "icon": {
@@ -11074,10 +9613,7 @@
     "requirements": {
       "level": 38
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Leafy Stalk": {
     "icon": {
@@ -11095,12 +9631,7 @@
     "requirements": {
       "level": 68
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Leather": {
     "icon": {
@@ -11118,11 +9649,7 @@
     "requirements": {
       "level": 2
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Leg Eater Tooth": {
     "icon": {
@@ -11151,10 +9678,7 @@
     "requirements": {
       "level": 103
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Leopard Blood": {
     "icon": {
@@ -11178,10 +9702,7 @@
     "requirements": {
       "level": 66
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Letvus Delight": {
     "icon": {
@@ -11220,10 +9741,7 @@
     "requirements": {
       "level": 70
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Licorice Ropes": {
     "icon": {
@@ -11246,11 +9764,7 @@
     "requirements": {
       "level": 60
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Limestone Core": {
     "icon": {
@@ -11274,10 +9788,7 @@
     "requirements": {
       "level": 37
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Linear Accelerator": {
     "icon": {
@@ -11306,11 +9817,7 @@
     "requirements": {
       "level": 95
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Lion Fang": {
     "icon": {
@@ -11334,11 +9841,7 @@
     "requirements": {
       "level": 28
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Lion Heart": {
     "icon": {
@@ -11367,10 +9870,7 @@
     "requirements": {
       "level": 27
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Lithoflesh": {
     "icon": {
@@ -11389,10 +9889,7 @@
     "requirements": {
       "level": 63
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Lively Apple": {
     "icon": {
@@ -11411,10 +9908,7 @@
     "requirements": {
       "level": 15
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Lizard Scale": {
     "icon": {
@@ -11437,10 +9931,7 @@
     "requirements": {
       "level": 53
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Lizard Tail": {
     "icon": {
@@ -11463,11 +9954,7 @@
     "requirements": {
       "level": 55
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Lockpicking Kit": {
     "icon": {
@@ -11491,11 +9978,7 @@
     "requirements": {
       "level": 81
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Looted Alloy": {
     "icon": {
@@ -11518,10 +10001,7 @@
     "requirements": {
       "level": 61
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Lost Heirloom": {
     "icon": {
@@ -11550,10 +10030,7 @@
     "requirements": {
       "level": 47
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Lost Spirit": {
     "icon": {
@@ -11573,11 +10050,7 @@
     "requirements": {
       "level": 87
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Lost Talisman": {
     "icon": {
@@ -11601,12 +10074,7 @@
     "requirements": {
       "level": 71
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "jeweling",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Lotus Seedpod": {
     "icon": {
@@ -11630,12 +10098,7 @@
     "requirements": {
       "level": 80
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "jeweling",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Luciolum": {
     "icon": {
@@ -11659,11 +10122,7 @@
     "requirements": {
       "level": 14
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Lucky Rabbit's Foot": {
     "icon": {
@@ -11687,13 +10146,7 @@
     "requirements": {
       "level": 37
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Lucky Spider Egg": {
     "icon": {
@@ -11717,10 +10170,7 @@
     "requirements": {
       "level": 8
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Luminescent Ink": {
     "icon": {
@@ -11739,10 +10189,7 @@
     "requirements": {
       "level": 14
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Luminous Rune": {
     "icon": {
@@ -11766,10 +10213,7 @@
     "requirements": {
       "level": 76
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Lunar Charm": {
     "icon": {
@@ -11781,12 +10225,7 @@
     "requirements": {
       "level": 38
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "jeweling",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Lunar Chunk": {
     "icon": {
@@ -11805,11 +10244,7 @@
     "requirements": {
       "level": 36
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Lunar Dust": {
     "icon": {
@@ -11827,11 +10262,7 @@
     "requirements": {
       "level": 32
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Lunar Shard": {
     "icon": {
@@ -11850,11 +10281,7 @@
     "requirements": {
       "level": 34
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Luu Luu Vertebrae": {
     "icon": {
@@ -11872,10 +10299,7 @@
     "requirements": {
       "level": 95
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Luxic Plasma": {
     "icon": {
@@ -11904,11 +10328,7 @@
     "requirements": {
       "level": 73
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Luxroot Cuttings": {
     "icon": {
@@ -11932,11 +10352,7 @@
     "requirements": {
       "level": 64
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Luxurious Silk": {
     "icon": {
@@ -11955,10 +10371,7 @@
     "requirements": {
       "level": 3
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Magic Feather": {
     "icon": {
@@ -11976,10 +10389,7 @@
     "requirements": {
       "level": 80
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Magical Fire": {
     "icon": {
@@ -12013,10 +10423,7 @@
     "requirements": {
       "level": 85
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Magicule Sample": {
     "icon": {
@@ -12045,10 +10452,7 @@
     "requirements": {
       "level": 75
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Magmatic Skin": {
     "icon": {
@@ -12071,12 +10475,7 @@
     "requirements": {
       "level": 85
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Mahogany Heartwood": {
     "icon": {
@@ -12105,11 +10504,7 @@
     "requirements": {
       "level": 66
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Major's Badge": {
     "icon": {
@@ -12121,15 +10516,7 @@
     "requirements": {
       "level": 80
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "armouring",
-      "jeweling",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Malignant Nuclei": {
     "icon": {
@@ -12158,10 +10545,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Mana Extract": {
     "icon": {
@@ -12185,10 +10569,7 @@
     "requirements": {
       "level": 7
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Mangled Soul": {
     "icon": {
@@ -12207,12 +10588,7 @@
     "requirements": {
       "level": 26
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "scribing",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Mangrove Root": {
     "icon": {
@@ -12241,10 +10617,7 @@
     "requirements": {
       "level": 56
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Manis Carapace": {
     "icon": {
@@ -12262,10 +10635,7 @@
     "requirements": {
       "level": 95
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Marble Statuette": {
     "icon": {
@@ -12294,10 +10664,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Maroferrous": {
     "icon": {
@@ -12321,11 +10688,7 @@
     "requirements": {
       "level": 63
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Maromagnetite": {
     "icon": {
@@ -12349,11 +10712,7 @@
     "requirements": {
       "level": 63
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Marrow Dust": {
     "icon": {
@@ -12372,10 +10731,7 @@
     "requirements": {
       "level": 92
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Marsufosa Pelt": {
     "icon": {
@@ -12393,10 +10749,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Mashed Insect": {
     "icon": {
@@ -12419,10 +10772,7 @@
     "requirements": {
       "level": 30
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Mega Fern": {
     "icon": {
@@ -12456,11 +10806,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Mellow Mango": {
     "icon": {
@@ -12489,10 +10835,7 @@
     "requirements": {
       "level": 54
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Melted Steel": {
     "icon": {
@@ -12515,11 +10858,7 @@
     "requirements": {
       "level": 89
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Memory Dye": {
     "icon": {
@@ -12553,10 +10892,7 @@
     "requirements": {
       "level": 81
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Metal Scraps": {
     "icon": {
@@ -12574,10 +10910,7 @@
     "requirements": {
       "level": 56
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Migratory Coconut": {
     "icon": {
@@ -12616,10 +10949,7 @@
     "requirements": {
       "level": 104
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Mineral Cinder": {
     "icon": {
@@ -12637,11 +10967,7 @@
     "requirements": {
       "level": 55
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Mixed Jewel Deposit": {
     "icon": {
@@ -12665,10 +10991,7 @@
     "requirements": {
       "level": 95
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Mixed Mineral Deposit": {
     "icon": {
@@ -12697,13 +11020,7 @@
     "requirements": {
       "level": 95
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Mixed Seeds": {
     "icon": {
@@ -12721,11 +11038,7 @@
     "requirements": {
       "level": 20
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Moldy Wrapping": {
     "icon": {
@@ -12754,11 +11067,7 @@
     "requirements": {
       "level": 39
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Mooshroom Ear": {
     "icon": {
@@ -12777,10 +11086,7 @@
     "requirements": {
       "level": 12
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "More-Pearlescent Jewel": {
     "icon": {
@@ -12804,10 +11110,7 @@
     "requirements": {
       "level": 70
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Mountain's Heart": {
     "icon": {
@@ -12831,10 +11134,7 @@
     "requirements": {
       "level": 87
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Munched Grass": {
     "icon": {
@@ -12858,11 +11158,7 @@
     "requirements": {
       "level": 16
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Mural Shard": {
     "icon": {
@@ -12891,10 +11187,7 @@
     "requirements": {
       "level": 95
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Muscle": {
     "icon": {
@@ -12918,11 +11211,7 @@
     "requirements": {
       "level": 21
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Myconid Spores": {
     "icon": {
@@ -12960,10 +11249,7 @@
     "requirements": {
       "level": 71
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Myocardial Leg": {
     "icon": {
@@ -12992,10 +11278,7 @@
     "requirements": {
       "level": 92
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Mysterious Mist": {
     "icon": {
@@ -13024,10 +11307,7 @@
     "requirements": {
       "level": 25
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Mythical Hoof": {
     "icon": {
@@ -13066,10 +11346,7 @@
     "requirements": {
       "level": 92
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Naga Tail": {
     "icon": {
@@ -13087,10 +11364,7 @@
     "requirements": {
       "level": 55
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Nasty Residue": {
     "icon": {
@@ -13114,10 +11388,7 @@
     "requirements": {
       "level": 65
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Native Jadeite": {
     "icon": {
@@ -13136,12 +11407,7 @@
     "requirements": {
       "level": 63
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Natural Nitrates": {
     "icon": {
@@ -13160,10 +11426,7 @@
     "requirements": {
       "level": 42
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Naval Shard": {
     "icon": {
@@ -13187,10 +11450,7 @@
     "requirements": {
       "level": 63
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Naval Stone": {
     "icon": {
@@ -13214,10 +11474,7 @@
     "requirements": {
       "level": 63
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Negative Rafflesia": {
     "icon": {
@@ -13241,11 +11498,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Neon Seawater": {
     "icon": {
@@ -13269,10 +11522,7 @@
     "requirements": {
       "level": 104
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Nightmare Fuel": {
     "icon": {
@@ -13296,11 +11546,7 @@
     "requirements": {
       "level": 50
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Nivlan Honey": {
     "icon": {
@@ -13312,12 +11558,7 @@
     "requirements": {
       "level": 8
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Nivlan Honeycomb": {
     "icon": {
@@ -13341,10 +11582,7 @@
     "requirements": {
       "level": 5
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Nose Ring": {
     "icon": {
@@ -13368,10 +11606,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Nova Bloom": {
     "icon": {
@@ -13400,11 +11635,7 @@
     "requirements": {
       "level": 73
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Obelisk Core": {
     "icon": {
@@ -13416,12 +11647,7 @@
     "requirements": {
       "level": 76
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "jeweling",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Obsidian Shards": {
     "icon": {
@@ -13445,10 +11671,7 @@
     "requirements": {
       "level": 91
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Ocea Steel": {
     "icon": {
@@ -13487,11 +11710,7 @@
     "requirements": {
       "level": 98
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Oceanic Sand": {
     "icon": {
@@ -13515,10 +11734,7 @@
     "requirements": {
       "level": 30
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Oceanic Silt": {
     "icon": {
@@ -13536,10 +11752,7 @@
     "requirements": {
       "level": 27
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Ocelot Pelt": {
     "icon": {
@@ -13555,10 +11768,7 @@
     "requirements": {
       "level": 23
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Ocelot Tail": {
     "icon": {
@@ -13581,11 +11791,7 @@
     "requirements": {
       "level": 25
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Old Bone": {
     "icon": {
@@ -13603,11 +11809,7 @@
     "requirements": {
       "level": 20
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Old Explosives": {
     "icon": {
@@ -13631,11 +11833,7 @@
     "requirements": {
       "level": 85
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Old Treasure֎": {
     "icon": {
@@ -13659,10 +11857,7 @@
     "requirements": {
       "level": 6
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Olmic Artifact": {
     "icon": {
@@ -13686,10 +11881,7 @@
     "requirements": {
       "level": 103
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Ominous Pearl": {
     "icon": {
@@ -13707,10 +11899,7 @@
     "requirements": {
       "level": 97
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Optic Fiber": {
     "icon": {
@@ -13728,10 +11917,7 @@
     "requirements": {
       "level": 101
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Optic Lens": {
     "icon": {
@@ -13755,10 +11941,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Orc Eye": {
     "icon": {
@@ -13781,11 +11964,7 @@
     "requirements": {
       "level": 44
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Orc Skin": {
     "icon": {
@@ -13808,11 +11987,7 @@
     "requirements": {
       "level": 63
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Orc Teeth": {
     "icon": {
@@ -13835,10 +12010,7 @@
     "requirements": {
       "level": 46
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Organic Explosive": {
     "icon": {
@@ -13862,11 +12034,7 @@
     "requirements": {
       "level": 77
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Outdated Newspaper": {
     "icon": {
@@ -13895,10 +12063,7 @@
     "requirements": {
       "level": 13
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Overgrown Bones": {
     "icon": {
@@ -13916,11 +12081,7 @@
     "requirements": {
       "level": 61
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Overheated Processor": {
     "icon": {
@@ -13949,10 +12110,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Overload Aspect": {
     "icon": {
@@ -13986,10 +12144,7 @@
     "requirements": {
       "level": 76
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Owl Feather": {
     "icon": {
@@ -14008,11 +12163,7 @@
     "requirements": {
       "level": 43
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Panda King's Crown": {
     "icon": {
@@ -14056,11 +12207,7 @@
     "requirements": {
       "level": 89
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Panda King’s Crown": {
     "icon": {
@@ -14104,11 +12251,7 @@
     "requirements": {
       "level": 89
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Paralyzing Spores": {
     "icon": {
@@ -14137,13 +12280,7 @@
     "requirements": {
       "level": 7
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Parasitic Abscission": {
     "icon": {
@@ -14162,11 +12299,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Parasitic Chitin": {
     "icon": {
@@ -14195,11 +12328,7 @@
     "requirements": {
       "level": 85
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Pearlescent Jewel": {
     "icon": {
@@ -14223,10 +12352,7 @@
     "requirements": {
       "level": 70
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Peculiar Oddity": {
     "icon": {
@@ -14245,11 +12371,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Pegasus Feather": {
     "icon": {
@@ -14278,10 +12400,7 @@
     "requirements": {
       "level": 92
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Penguin Egg": {
     "icon": {
@@ -14305,11 +12424,7 @@
     "requirements": {
       "level": 46
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Perkish Potato": {
     "icon": {
@@ -14327,10 +12442,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Photophobic Kelp": {
     "icon": {
@@ -14364,10 +12476,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Phrumkin Seeds": {
     "icon": {
@@ -14391,10 +12500,7 @@
     "requirements": {
       "level": 67
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Piercing Talons": {
     "icon": {
@@ -14418,11 +12524,7 @@
     "requirements": {
       "level": 85
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Pig's Blood": {
     "icon": {
@@ -14441,10 +12543,7 @@
     "requirements": {
       "level": 77
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Pig's Remains": {
     "icon": {
@@ -14462,10 +12561,7 @@
     "requirements": {
       "level": 78
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Pig's Skull": {
     "icon": {
@@ -14484,10 +12580,7 @@
     "requirements": {
       "level": 78
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Pigman Ivory": {
     "icon": {
@@ -14511,11 +12604,7 @@
     "requirements": {
       "level": 14
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Pigman Meat": {
     "icon": {
@@ -14533,11 +12622,7 @@
     "requirements": {
       "level": 11
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Pilfered Silver": {
     "icon": {
@@ -14561,11 +12646,7 @@
     "requirements": {
       "level": 61
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Pillaged Fragment": {
     "icon": {
@@ -14589,10 +12670,7 @@
     "requirements": {
       "level": 47
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Pink Pelulite": {
     "icon": {
@@ -14616,11 +12694,7 @@
     "requirements": {
       "level": 53
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Pink Pelute": {
     "icon": {
@@ -14644,12 +12718,7 @@
     "requirements": {
       "level": 53
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Pink Wool": {
     "icon": {
@@ -14678,10 +12747,7 @@
     "requirements": {
       "level": 2
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Piquant Pork Fillet": {
     "icon": {
@@ -14700,10 +12766,7 @@
     "requirements": {
       "level": 85
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Piranha Jaw": {
     "icon": {
@@ -14727,11 +12790,7 @@
     "requirements": {
       "level": 25
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Pirate Beard": {
     "icon": {
@@ -14755,10 +12814,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Plane of Nonexistence": {
     "icon": {
@@ -14797,10 +12853,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Plasteel Plating": {
     "icon": {
@@ -14812,11 +12865,7 @@
     "requirements": {
       "level": 97
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Platinum Grook Egg": {
     "icon": {
@@ -14845,10 +12894,7 @@
     "requirements": {
       "level": 16
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Plucked Feather": {
     "icon": {
@@ -14871,11 +12917,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Pluripotent Tissue": {
     "icon": {
@@ -14899,10 +12941,7 @@
     "requirements": {
       "level": 103
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Plutonium Waste": {
     "icon": {
@@ -14926,10 +12965,7 @@
     "requirements": {
       "level": 103
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Poison Sac": {
     "icon": {
@@ -14948,10 +12984,7 @@
     "requirements": {
       "level": 44
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Poisonous Spider Eye": {
     "icon": {
@@ -14970,11 +13003,7 @@
     "requirements": {
       "level": 5
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Pokey Cactus": {
     "icon": {
@@ -15003,11 +13032,7 @@
     "requirements": {
       "level": 35
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Poorly-Made Pouch": {
     "icon": {
@@ -15025,10 +13050,7 @@
     "requirements": {
       "level": 81
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Popped Pustule": {
     "icon": {
@@ -15052,10 +13074,7 @@
     "requirements": {
       "level": 102
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Portal Emanation": {
     "icon": {
@@ -15079,13 +13098,7 @@
     "requirements": {
       "level": 29
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Portal Rift": {
     "icon": {
@@ -15109,10 +13122,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Potato": {
     "icon": {
@@ -15130,10 +13140,7 @@
     "requirements": {
       "level": 1
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Powdery Bone": {
     "icon": {
@@ -15152,10 +13159,7 @@
     "requirements": {
       "level": 30
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Premium Hay Bale": {
     "icon": {
@@ -15184,10 +13188,7 @@
     "requirements": {
       "level": 26
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Prickly Grass": {
     "icon": {
@@ -15205,11 +13206,7 @@
     "requirements": {
       "level": 73
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Pride of the Heights": {
     "icon": {
@@ -15221,12 +13218,7 @@
     "requirements": {
       "level": 95
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "tailoring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Primeval Skin": {
     "icon": {
@@ -15255,10 +13247,7 @@
     "requirements": {
       "level": 45
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Primitive Delicacy": {
     "icon": {
@@ -15277,10 +13266,7 @@
     "requirements": {
       "level": 51
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Primordial Soul": {
     "icon": {
@@ -15292,11 +13278,7 @@
     "requirements": {
       "level": 78
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Prismatic Spores": {
     "icon": {
@@ -15320,10 +13302,7 @@
     "requirements": {
       "level": 72
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Pristine Claw": {
     "icon": {
@@ -15347,10 +13326,7 @@
     "requirements": {
       "level": 70
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Prized Feather": {
     "icon": {
@@ -15374,10 +13350,7 @@
     "requirements": {
       "level": 93
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Prized Pelt": {
     "icon": {
@@ -15401,10 +13374,7 @@
     "requirements": {
       "level": 34
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Protective Fabric": {
     "icon": {
@@ -15442,10 +13412,7 @@
     "requirements": {
       "level": 85
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Psionic Quill": {
     "icon": {
@@ -15469,11 +13436,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Psych Starfruit": {
     "icon": {
@@ -15537,10 +13500,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Pure Quartz": {
     "icon": {
@@ -15564,13 +13524,7 @@
     "requirements": {
       "level": 45
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Pure Rain Stone": {
     "icon": {
@@ -15588,10 +13542,7 @@
     "requirements": {
       "level": 77
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Purest Prism": {
     "icon": {
@@ -15635,10 +13586,7 @@
     "requirements": {
       "level": 81
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Purest Tear": {
     "icon": {
@@ -15657,10 +13605,7 @@
     "requirements": {
       "level": 73
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Putrid Gunk": {
     "icon": {
@@ -15678,10 +13623,7 @@
     "requirements": {
       "level": 4
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Putrid Spores": {
     "icon": {
@@ -15700,10 +13642,7 @@
     "requirements": {
       "level": 62
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Pykrete": {
     "icon": {
@@ -15722,11 +13661,7 @@
     "requirements": {
       "level": 47
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Quartz Cluster": {
     "icon": {
@@ -15750,11 +13685,7 @@
     "requirements": {
       "level": 45
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Rabbit Carcass": {
     "icon": {
@@ -15793,10 +13724,7 @@
     "requirements": {
       "level": 40
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Radiant Seeds": {
     "icon": {
@@ -15825,10 +13753,7 @@
     "requirements": {
       "level": 74
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Rancid Flesh": {
     "icon": {
@@ -15846,11 +13771,7 @@
     "requirements": {
       "level": 70
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Rare Potato": {
     "icon": {
@@ -15869,10 +13790,7 @@
     "requirements": {
       "level": 1
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Rat Hair": {
     "icon": {
@@ -15890,11 +13808,7 @@
     "requirements": {
       "level": 3
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Razor-Sharp Tooth": {
     "icon": {
@@ -15918,11 +13832,7 @@
     "requirements": {
       "level": 86
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Recluse Venom Sac": {
     "icon": {
@@ -15941,11 +13851,7 @@
     "requirements": {
       "level": 72
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Red Crystal Dust": {
     "icon": {
@@ -15969,10 +13875,7 @@
     "requirements": {
       "level": 55
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Red Mercury": {
     "icon": {
@@ -15996,10 +13899,7 @@
     "requirements": {
       "level": 98
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Red Mushroom": {
     "icon": {
@@ -16017,10 +13917,7 @@
     "requirements": {
       "level": 1
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Red Scale": {
     "icon": {
@@ -16042,11 +13939,7 @@
     "requirements": {
       "level": 60
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Red Shale": {
     "icon": {
@@ -16070,10 +13963,7 @@
     "requirements": {
       "level": 31
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Regenerative Pins": {
     "icon": {
@@ -16097,12 +13987,7 @@
     "requirements": {
       "level": 78
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing",
-      "tailoring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Regretless Talisman": {
     "icon": {
@@ -16131,10 +14016,7 @@
     "requirements": {
       "level": 40
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Reinforced Leather": {
     "icon": {
@@ -16158,11 +14040,7 @@
     "requirements": {
       "level": 25
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Rejected Geode": {
     "icon": {
@@ -16191,11 +14069,7 @@
     "requirements": {
       "level": 104
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Relic of the Future": {
     "icon": {
@@ -16219,11 +14093,7 @@
     "requirements": {
       "level": 15
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Relic of the Past": {
     "icon": {
@@ -16247,10 +14117,7 @@
     "requirements": {
       "level": 15
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Remedial Paste": {
     "icon": {
@@ -16279,10 +14146,7 @@
     "requirements": {
       "level": 95
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Remnant of the Ruined": {
     "icon": {
@@ -16306,10 +14170,7 @@
     "requirements": {
       "level": 102
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Repair Toolkit": {
     "icon": {
@@ -16333,10 +14194,7 @@
     "requirements": {
       "level": 91
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Reptile Scales": {
     "icon": {
@@ -16359,11 +14217,7 @@
     "requirements": {
       "level": 52
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Repulsive Aspect": {
     "icon": {
@@ -16397,11 +14251,7 @@
     "requirements": {
       "level": 76
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Residual Spirit": {
     "icon": {
@@ -16425,10 +14275,7 @@
     "requirements": {
       "level": 24
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Resilient Stone": {
     "icon": {
@@ -16451,10 +14298,7 @@
     "requirements": {
       "level": 78
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Resistant Strain": {
     "icon": {
@@ -16488,10 +14332,7 @@
     "requirements": {
       "level": 60
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Retinal Barbs": {
     "icon": {
@@ -16515,11 +14356,7 @@
     "requirements": {
       "level": 104
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Retinal Membrane": {
     "icon": {
@@ -16537,10 +14374,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Rigid Fin": {
     "icon": {
@@ -16564,10 +14398,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Ritual Catalyst": {
     "icon": {
@@ -16601,12 +14432,7 @@
     "requirements": {
       "level": 79
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "River Clay": {
     "icon": {
@@ -16629,12 +14455,7 @@
     "requirements": {
       "level": 23
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "jeweling",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Roasted Tissue": {
     "icon": {
@@ -16663,11 +14484,7 @@
     "requirements": {
       "level": 93
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Robot Antenna": {
     "icon": {
@@ -16685,10 +14502,7 @@
     "requirements": {
       "level": 85
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Rock-Hard Beak": {
     "icon": {
@@ -16712,11 +14526,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Rocky Mind": {
     "icon": {
@@ -16740,10 +14550,7 @@
     "requirements": {
       "level": 88
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Rocky Spirit": {
     "icon": {
@@ -16767,11 +14574,7 @@
     "requirements": {
       "level": 99
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Roots of Eternity": {
     "icon": {
@@ -16795,10 +14598,7 @@
     "requirements": {
       "level": 81
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Rose": {
     "icon": {
@@ -16816,11 +14616,7 @@
     "requirements": {
       "level": 18
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Rototilled Soil": {
     "icon": {
@@ -16844,10 +14640,7 @@
     "requirements": {
       "level": 58
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Rotten Bone": {
     "icon": {
@@ -16870,11 +14663,7 @@
     "requirements": {
       "level": 8
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Rotten Flesh": {
     "icon": {
@@ -16892,11 +14681,7 @@
     "requirements": {
       "level": 1
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Rotten Log": {
     "icon": {
@@ -16915,10 +14700,7 @@
     "requirements": {
       "level": 41
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Rotten Teeth": {
     "icon": {
@@ -16942,10 +14724,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Rotting Bandage": {
     "icon": {
@@ -16969,10 +14748,7 @@
     "requirements": {
       "level": 56
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Rotting Bone": {
     "icon": {
@@ -16996,10 +14772,7 @@
     "requirements": {
       "level": 20
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Router's Shield": {
     "icon": {
@@ -17023,10 +14796,7 @@
     "requirements": {
       "level": 30
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Royal Bug’s Blood": {
     "icon": {
@@ -17049,11 +14819,7 @@
     "requirements": {
       "level": 76
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Royal Cake Slice": {
     "icon": {
@@ -17077,11 +14843,7 @@
     "requirements": {
       "level": 1
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Ruins Shard": {
     "icon": {
@@ -17110,10 +14872,7 @@
     "requirements": {
       "level": 64
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Runner's Bandages": {
     "icon": {
@@ -17132,11 +14891,7 @@
     "requirements": {
       "level": 43
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Rusty Axe Head": {
     "icon": {
@@ -17155,10 +14910,7 @@
     "requirements": {
       "level": 60
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Rusty Spurs": {
     "icon": {
@@ -17179,10 +14931,7 @@
     "requirements": {
       "level": 36
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Salt": {
     "icon": {
@@ -17194,10 +14943,7 @@
     "requirements": {
       "level": 34
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Salt Water": {
     "icon": {
@@ -17215,11 +14961,7 @@
     "requirements": {
       "level": 21
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Salted Salmon": {
     "icon": {
@@ -17238,10 +14980,7 @@
     "requirements": {
       "level": 28
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Sanctified Sheep Soul": {
     "icon": {
@@ -17275,10 +15014,7 @@
     "requirements": {
       "level": 65
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Sandy Bonemeal": {
     "icon": {
@@ -17301,11 +15037,7 @@
     "requirements": {
       "level": 34
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Savannah Stone": {
     "icon": {
@@ -17329,10 +15061,7 @@
     "requirements": {
       "level": 25
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Scalding Sand": {
     "icon": {
@@ -17356,10 +15085,7 @@
     "requirements": {
       "level": 34
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Scarab Husk": {
     "icon": {
@@ -17378,11 +15104,7 @@
     "requirements": {
       "level": 32
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Scarred Leather": {
     "icon": {
@@ -17406,10 +15128,7 @@
     "requirements": {
       "level": 15
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Scopaesthesia": {
     "icon": {
@@ -17453,10 +15172,7 @@
     "requirements": {
       "level": 103
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Scorching Horn": {
     "icon": {
@@ -17480,10 +15196,7 @@
     "requirements": {
       "level": 59
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Scoria Pollen": {
     "icon": {
@@ -17507,11 +15220,7 @@
     "requirements": {
       "level": 30
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Scuttling Syenite": {
     "icon": {
@@ -17535,10 +15244,7 @@
     "requirements": {
       "level": 62
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Sea Salt": {
     "icon": {
@@ -17550,11 +15256,7 @@
     "requirements": {
       "level": 32
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Seabird Egg": {
     "icon": {
@@ -17578,10 +15280,7 @@
     "requirements": {
       "level": 27
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Seabird Feather": {
     "icon": {
@@ -17604,11 +15303,7 @@
     "requirements": {
       "level": 26
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Seagrass": {
     "icon": {
@@ -17631,10 +15326,7 @@
     "requirements": {
       "level": 23
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Sealed Blaze": {
     "icon": {
@@ -17673,10 +15365,7 @@
     "requirements": {
       "level": 59
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Searing Heartwood": {
     "icon": {
@@ -17710,10 +15399,7 @@
     "requirements": {
       "level": 93
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Secret Herb": {
     "icon": {
@@ -17737,12 +15423,7 @@
     "requirements": {
       "level": 59
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Sentient Leukocyte": {
     "icon": {
@@ -17776,10 +15457,7 @@
     "requirements": {
       "level": 104
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Sentient Magmatic Gem": {
     "icon": {
@@ -17798,10 +15476,7 @@
     "requirements": {
       "level": 35
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Sentient Shadow": {
     "icon": {
@@ -17825,10 +15500,7 @@
     "requirements": {
       "level": 92
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Sentient Slimeball": {
     "icon": {
@@ -17857,10 +15529,7 @@
     "requirements": {
       "level": 57
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Sentient Water": {
     "icon": {
@@ -17884,10 +15553,7 @@
     "requirements": {
       "level": 75
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Serafite": {
     "icon": {
@@ -17916,10 +15582,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Serpent Tongue": {
     "icon": {
@@ -17943,10 +15606,7 @@
     "requirements": {
       "level": 89
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Serpent's Fang": {
     "icon": {
@@ -17970,11 +15630,7 @@
     "requirements": {
       "level": 93
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Severed Heart": {
     "icon": {
@@ -17997,10 +15653,7 @@
     "requirements": {
       "level": 69
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Severed Leg": {
     "icon": {
@@ -18018,10 +15671,7 @@
     "requirements": {
       "level": 56
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Shadow of Ruin": {
     "icon": {
@@ -18045,10 +15695,7 @@
     "requirements": {
       "level": 74
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Sharp Claw": {
     "icon": {
@@ -18071,11 +15718,7 @@
     "requirements": {
       "level": 85
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Sharp Edge": {
     "icon": {
@@ -18099,10 +15742,7 @@
     "requirements": {
       "level": 35
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Sharpening Stone": {
     "icon": {
@@ -18126,10 +15766,7 @@
     "requirements": {
       "level": 6
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Shattered Aspect": {
     "icon": {
@@ -18163,11 +15800,7 @@
     "requirements": {
       "level": 76
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Shattered Blade": {
     "icon": {
@@ -18185,10 +15818,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Shattered Dawnlight": {
     "icon": {
@@ -18222,10 +15852,7 @@
     "requirements": {
       "level": 67
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Shattered Memory Shard": {
     "icon": {
@@ -18249,11 +15876,7 @@
     "requirements": {
       "level": 25
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Sheep Hoof": {
     "icon": {
@@ -18271,11 +15894,7 @@
     "requirements": {
       "level": 8
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Shimmering Jewel": {
     "icon": {
@@ -18299,11 +15918,7 @@
     "requirements": {
       "level": 40
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Shinesting Scorpion Tail": {
     "icon": {
@@ -18327,11 +15942,7 @@
     "requirements": {
       "level": 37
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Shining Wool": {
     "icon": {
@@ -18369,11 +15980,7 @@
     "requirements": {
       "level": 72
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Shiny Gravel": {
     "icon": {
@@ -18397,10 +16004,7 @@
     "requirements": {
       "level": 60
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Shiny Mineral Deposit": {
     "icon": {
@@ -18429,10 +16033,7 @@
     "requirements": {
       "level": 95
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Shiny Pebble": {
     "icon": {
@@ -18456,10 +16057,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Shorting Wire": {
     "icon": {
@@ -18482,10 +16080,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Shredded Bone": {
     "icon": {
@@ -18503,11 +16098,7 @@
     "requirements": {
       "level": 23
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Shrieker's Head": {
     "icon": {
@@ -18536,10 +16127,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Silver Bullet": {
     "icon": {
@@ -18563,10 +16151,7 @@
     "requirements": {
       "level": 95
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Silver Feather": {
     "icon": {
@@ -18587,10 +16172,7 @@
     "requirements": {
       "level": 96
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Sky Flux": {
     "icon": {
@@ -18614,10 +16196,7 @@
     "requirements": {
       "level": 99
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Sky Snail Shell": {
     "icon": {
@@ -18646,11 +16225,7 @@
     "requirements": {
       "level": 95
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Skybound Remnant": {
     "icon": {
@@ -18674,10 +16249,7 @@
     "requirements": {
       "level": 102
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Skyraider Coin": {
     "icon": {
@@ -18700,10 +16272,7 @@
     "requirements": {
       "level": 99
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Slate Sheet": {
     "icon": {
@@ -18727,10 +16296,7 @@
     "requirements": {
       "level": 59
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Slimy Skin": {
     "icon": {
@@ -18759,10 +16325,7 @@
     "requirements": {
       "level": 78
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Sliver of Sunrise": {
     "icon": {
@@ -18791,11 +16354,7 @@
     "requirements": {
       "level": 86
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Sludge Parasite": {
     "icon": {
@@ -18818,10 +16377,7 @@
     "requirements": {
       "level": 102
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Smokebomb": {
     "icon": {
@@ -18850,10 +16406,7 @@
     "requirements": {
       "level": 73
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Smooth Silt": {
     "icon": {
@@ -18877,11 +16430,7 @@
     "requirements": {
       "level": 18
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Snake Eye": {
     "icon": {
@@ -18899,10 +16448,7 @@
     "requirements": {
       "level": 20
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Snake Scale": {
     "icon": {
@@ -18926,11 +16472,7 @@
     "requirements": {
       "level": 32
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Snake Skin": {
     "icon": {
@@ -18959,10 +16501,7 @@
     "requirements": {
       "level": 66
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Snake Tooth": {
     "icon": {
@@ -18986,11 +16525,7 @@
     "requirements": {
       "level": 25
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Snow Clump": {
     "icon": {
@@ -19013,10 +16548,7 @@
     "requirements": {
       "level": 45
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Snow Heart": {
     "icon": {
@@ -19039,11 +16571,7 @@
     "requirements": {
       "level": 43
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Soapstone": {
     "icon": {
@@ -19067,11 +16595,7 @@
     "requirements": {
       "level": 59
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Soft Blue Wool": {
     "icon": {
@@ -19089,11 +16613,7 @@
     "requirements": {
       "level": 10
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Soft Green Wool": {
     "icon": {
@@ -19111,11 +16631,7 @@
     "requirements": {
       "level": 10
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Soft Red Wool": {
     "icon": {
@@ -19133,11 +16649,7 @@
     "requirements": {
       "level": 10
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Soft Sand": {
     "icon": {
@@ -19160,10 +16672,7 @@
     "requirements": {
       "level": 30
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Soft Silk": {
     "icon": {
@@ -19187,11 +16696,7 @@
     "requirements": {
       "level": 62
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Soft White Wool": {
     "icon": {
@@ -19209,11 +16714,7 @@
     "requirements": {
       "level": 10
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Soft Yellow Wool": {
     "icon": {
@@ -19231,11 +16732,7 @@
     "requirements": {
       "level": 10
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Soggy Stone": {
     "icon": {
@@ -19258,11 +16755,7 @@
     "requirements": {
       "level": 76
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Solcrystal Horn": {
     "icon": {
@@ -19291,10 +16784,7 @@
     "requirements": {
       "level": 62
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Solid Ultraviolet Ray": {
     "icon": {
@@ -19328,11 +16818,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Sought-After Ore": {
     "icon": {
@@ -19351,10 +16837,7 @@
     "requirements": {
       "level": 96
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Soul Amalgamate": {
     "icon": {
@@ -19388,10 +16871,7 @@
     "requirements": {
       "level": 64
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Soul Essence": {
     "icon": {
@@ -19414,10 +16894,7 @@
     "requirements": {
       "level": 103
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Soul Stone": {
     "icon": {
@@ -19441,11 +16918,7 @@
     "requirements": {
       "level": 49
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Soulbound Cinders": {
     "icon": {
@@ -19474,10 +16947,7 @@
     "requirements": {
       "level": 93
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Soulfire Matterweave": {
     "icon": {
@@ -19501,10 +16971,7 @@
     "requirements": {
       "level": 97
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Spark of the Oasis": {
     "icon": {
@@ -19528,11 +16995,7 @@
     "requirements": {
       "level": 31
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Spectral Spike": {
     "icon": {
@@ -19556,10 +17019,7 @@
     "requirements": {
       "level": 62
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Spellbound Ash": {
     "icon": {
@@ -19577,10 +17037,7 @@
     "requirements": {
       "level": 18
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Spider Eggs": {
     "icon": {
@@ -19598,11 +17055,7 @@
     "requirements": {
       "level": 23
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Spider Fang": {
     "icon": {
@@ -19620,11 +17073,7 @@
     "requirements": {
       "level": 5
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Spider Leg": {
     "icon": {
@@ -19647,10 +17096,7 @@
     "requirements": {
       "level": 43
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Spike Residue": {
     "icon": {
@@ -19674,11 +17120,7 @@
     "requirements": {
       "level": 27
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Spiked Capsule": {
     "icon": {
@@ -19702,11 +17144,7 @@
     "requirements": {
       "level": 60
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Spirograph Tablet": {
     "icon": {
@@ -19755,10 +17193,7 @@
     "requirements": {
       "level": 37
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Splintered Greathammer": {
     "icon": {
@@ -19787,11 +17222,7 @@
     "requirements": {
       "level": 87
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Split Essence": {
     "icon": {
@@ -19815,12 +17246,7 @@
     "requirements": {
       "level": 20
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Spreading Fireweed": {
     "icon": {
@@ -19849,10 +17275,7 @@
     "requirements": {
       "level": 80
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Squid": {
     "icon": {
@@ -19871,11 +17294,7 @@
     "requirements": {
       "level": 68
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Squid Beak": {
     "icon": {
@@ -19899,13 +17318,7 @@
     "requirements": {
       "level": 38
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Squid Brain": {
     "icon": {
@@ -19929,11 +17342,7 @@
     "requirements": {
       "level": 58
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Squid Ink": {
     "icon": {
@@ -19951,11 +17360,7 @@
     "requirements": {
       "level": 28
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Stack of Coins": {
     "icon": {
@@ -19978,10 +17383,7 @@
     "requirements": {
       "level": 73
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Sticky Fern": {
     "icon": {
@@ -20000,11 +17402,7 @@
     "requirements": {
       "level": 25
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Sticky Mudball": {
     "icon": {
@@ -20028,11 +17426,7 @@
     "requirements": {
       "level": 21
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Stolen Burnmilk": {
     "icon": {
@@ -20061,10 +17455,7 @@
     "requirements": {
       "level": 96
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Stolen Egg": {
     "icon": {
@@ -20088,10 +17479,7 @@
     "requirements": {
       "level": 39
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Stolen Goods": {
     "icon": {
@@ -20110,15 +17498,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "armouring",
-      "scribing",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Stolen Harvest": {
     "icon": {
@@ -20136,10 +17516,7 @@
     "requirements": {
       "level": 53
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Stolen Pearls": {
     "icon": {
@@ -20158,10 +17535,7 @@
     "requirements": {
       "level": 35
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Stolen Seeds": {
     "icon": {
@@ -20184,10 +17558,7 @@
     "requirements": {
       "level": 92
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Stone Plating": {
     "icon": {
@@ -20211,11 +17582,7 @@
     "requirements": {
       "level": 82
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Stonewalker Core": {
     "icon": {
@@ -20239,11 +17606,7 @@
     "requirements": {
       "level": 35
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Storm Horn": {
     "icon": {
@@ -20266,10 +17629,7 @@
     "requirements": {
       "level": 96
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Strange Geode": {
     "icon": {
@@ -20293,10 +17653,7 @@
     "requirements": {
       "level": 28
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Strange Trinket": {
     "icon": {
@@ -20335,11 +17692,7 @@
     "requirements": {
       "level": 63
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Stretched Rawhide": {
     "icon": {
@@ -20363,10 +17716,7 @@
     "requirements": {
       "level": 40
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Strong Flesh": {
     "icon": {
@@ -20390,13 +17740,7 @@
     "requirements": {
       "level": 3
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Sturdy Flesh": {
     "icon": {
@@ -20415,13 +17759,7 @@
     "requirements": {
       "level": 1
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Subjoined Brain": {
     "icon": {
@@ -20455,11 +17793,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Subsuming Darkness": {
     "icon": {
@@ -20483,11 +17817,7 @@
     "requirements": {
       "level": 70
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Succulent Crab Meat": {
     "icon": {
@@ -20511,10 +17841,7 @@
     "requirements": {
       "level": 85
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Sugar Stick": {
     "icon": {
@@ -20532,11 +17859,7 @@
     "requirements": {
       "level": 65
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Sun-Stained Skin": {
     "icon": {
@@ -20565,10 +17888,7 @@
     "requirements": {
       "level": 27
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Sunken Scales": {
     "icon": {
@@ -20591,10 +17911,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Suspicious Shrubs": {
     "icon": {
@@ -20623,10 +17940,7 @@
     "requirements": {
       "level": 83
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Swooper Wing": {
     "icon": {
@@ -20650,10 +17964,7 @@
     "requirements": {
       "level": 37
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Sylphid Tears": {
     "icon": {
@@ -20677,10 +17988,7 @@
     "requirements": {
       "level": 98
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Tacky Goop": {
     "icon": {
@@ -20704,11 +18012,7 @@
     "requirements": {
       "level": 57
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Tangy Nectar": {
     "icon": {
@@ -20737,10 +18041,7 @@
     "requirements": {
       "level": 63
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Tanned Flesh": {
     "icon": {
@@ -20758,10 +18059,7 @@
     "requirements": {
       "level": 35
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Tarnished Gold Foil": {
     "icon": {
@@ -20779,11 +18077,7 @@
     "requirements": {
       "level": 5
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Tattered Magic Cloth": {
     "icon": {
@@ -20807,10 +18101,7 @@
     "requirements": {
       "level": 55
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Tempered Core": {
     "icon": {
@@ -20834,11 +18125,7 @@
     "requirements": {
       "level": 92
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Tender Pork Fillet": {
     "icon": {
@@ -20857,10 +18144,7 @@
     "requirements": {
       "level": 85
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Tendon Clump": {
     "icon": {
@@ -20878,11 +18162,7 @@
     "requirements": {
       "level": 24
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Tenebrous Plasma": {
     "icon": {
@@ -20911,10 +18191,7 @@
     "requirements": {
       "level": 65
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Tentacle": {
     "icon": {
@@ -20938,10 +18215,7 @@
     "requirements": {
       "level": 85
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Terra Steel": {
     "icon": {
@@ -20965,11 +18239,7 @@
     "requirements": {
       "level": 88
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Terracotta Chunk": {
     "icon": {
@@ -20987,10 +18257,7 @@
     "requirements": {
       "level": 33
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Terramarine Dust": {
     "icon": {
@@ -21014,11 +18281,7 @@
     "requirements": {
       "level": 62
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "The Grootslang's Heart": {
     "icon": {
@@ -21047,11 +18310,7 @@
     "requirements": {
       "level": 56
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Therck's Chain": {
     "icon": {
@@ -21075,13 +18334,7 @@
     "requirements": {
       "level": 1
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Thermal Replication": {
     "icon": {
@@ -21105,11 +18358,7 @@
     "requirements": {
       "level": 65
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Thick Mud": {
     "icon": {
@@ -21132,11 +18381,7 @@
     "requirements": {
       "level": 21
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Thick Vines": {
     "icon": {
@@ -21159,11 +18404,7 @@
     "requirements": {
       "level": 53
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Thin Quill": {
     "icon": {
@@ -21181,12 +18422,7 @@
     "requirements": {
       "level": 8
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "scribing",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Thorned Tusk": {
     "icon": {
@@ -21210,10 +18446,7 @@
     "requirements": {
       "level": 85
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Throbbing Avos Heart": {
     "icon": {
@@ -21237,10 +18470,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Titanium Chunk": {
     "icon": {
@@ -21264,11 +18494,7 @@
     "requirements": {
       "level": 70
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Torn Rawhide": {
     "icon": {
@@ -21292,10 +18518,7 @@
     "requirements": {
       "level": 43
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Torn Skin": {
     "icon": {
@@ -21313,10 +18536,7 @@
     "requirements": {
       "level": 50
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Tough Bone": {
     "icon": {
@@ -21333,11 +18553,7 @@
     "requirements": {
       "level": 22
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Tough Skin": {
     "icon": {
@@ -21360,11 +18576,7 @@
     "requirements": {
       "level": 84
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Toxic Lumps": {
     "icon": {
@@ -21392,10 +18604,7 @@
     "requirements": {
       "level": 102
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Toxic Spores": {
     "icon": {
@@ -21419,10 +18628,7 @@
     "requirements": {
       "level": 16
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Toxxulous Ripper’s Legs": {
     "icon": {
@@ -21451,11 +18657,7 @@
     "requirements": {
       "level": 103
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Transformativity": {
     "icon": {
@@ -21467,10 +18669,7 @@
     "requirements": {
       "level": 80
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Tribal Tome": {
     "icon": {
@@ -21499,10 +18698,7 @@
     "requirements": {
       "level": 65
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Troll Hair": {
     "icon": {
@@ -21525,10 +18721,7 @@
     "requirements": {
       "level": 42
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Tropical Honeysuckle": {
     "icon": {
@@ -21557,10 +18750,7 @@
     "requirements": {
       "level": 53
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Truffle": {
     "icon": {
@@ -21584,10 +18774,7 @@
     "requirements": {
       "level": 20
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Tungsten Chunk": {
     "icon": {
@@ -21611,10 +18798,7 @@
     "requirements": {
       "level": 63
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Turtle Shell": {
     "icon": {
@@ -21637,10 +18821,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Twisted Coral": {
     "icon": {
@@ -21663,10 +18844,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Twisted Organ": {
     "icon": {
@@ -21690,10 +18868,7 @@
     "requirements": {
       "level": 43
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Ultramarine Minnow": {
     "icon": {
@@ -21717,11 +18892,7 @@
     "requirements": {
       "level": 104
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Undead Heart": {
     "icon": {
@@ -21745,11 +18916,7 @@
     "requirements": {
       "level": 15
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Undiscovered Plant": {
     "icon": {
@@ -21773,10 +18940,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Unholy Spirit": {
     "icon": {
@@ -21794,11 +18958,7 @@
     "requirements": {
       "level": 62
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Unholy Water": {
     "icon": {
@@ -21822,11 +18982,7 @@
     "requirements": {
       "level": 75
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Unicorn Horn": {
     "icon": {
@@ -21838,12 +18994,7 @@
     "requirements": {
       "level": 75
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "cooking",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Unmeltable Ice": {
     "icon": {
@@ -21866,11 +19017,7 @@
     "requirements": {
       "level": 92
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Unsettling Soul": {
     "icon": {
@@ -21889,10 +19036,7 @@
     "requirements": {
       "level": 25
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Unsettling Void": {
     "icon": {
@@ -21916,11 +19060,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Urdar's Stone": {
     "icon": {
@@ -21944,11 +19084,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Ursine Claw": {
     "icon": {
@@ -21977,10 +19113,7 @@
     "requirements": {
       "level": 44
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Used Fireball": {
     "icon": {
@@ -21998,11 +19131,7 @@
     "requirements": {
       "level": 6
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Vibrant Augment": {
     "icon": {
@@ -22041,11 +19170,7 @@
     "requirements": {
       "level": 7
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Victim's Skull": {
     "icon": {
@@ -22068,10 +19193,7 @@
     "requirements": {
       "level": 60
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Viking Stone": {
     "icon": {
@@ -22095,13 +19217,7 @@
     "requirements": {
       "level": 47
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Vile Stone": {
     "icon": {
@@ -22125,11 +19241,7 @@
     "requirements": {
       "level": 102
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Vim Veins": {
     "icon": {
@@ -22153,11 +19265,7 @@
     "requirements": {
       "level": 104
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Viral Tentacle": {
     "icon": {
@@ -22181,10 +19289,7 @@
     "requirements": {
       "level": 102
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Viscous Slime": {
     "icon": {
@@ -22202,11 +19307,7 @@
     "requirements": {
       "level": 51
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Vista Mist": {
     "icon": {
@@ -22230,10 +19331,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Void Essence": {
     "icon": {
@@ -22256,10 +19354,7 @@
     "requirements": {
       "level": 95
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Void Particulates": {
     "icon": {
@@ -22308,11 +19403,7 @@
     "requirements": {
       "level": 101
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Voidstone Sample": {
     "icon": {
@@ -22336,11 +19427,7 @@
     "requirements": {
       "level": 96
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Voidtossed Memory": {
     "icon": {
@@ -22364,10 +19451,7 @@
     "requirements": {
       "level": 103
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Volatile Light": {
     "icon": {
@@ -22411,11 +19495,7 @@
     "requirements": {
       "level": 80
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Volatile Matter": {
     "icon": {
@@ -22444,12 +19524,7 @@
     "requirements": {
       "level": 20
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Vortex Expulsion": {
     "icon": {
@@ -22473,12 +19548,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "scribing",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Vortexian Event Horizon": {
     "icon": {
@@ -22502,10 +19572,7 @@
     "requirements": {
       "level": 105
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Warm Fleris": {
     "icon": {
@@ -22529,10 +19596,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Warped Skin": {
     "icon": {
@@ -22550,11 +19614,7 @@
     "requirements": {
       "level": 14
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Waterfall Thyme": {
     "icon": {
@@ -22578,10 +19638,7 @@
     "requirements": {
       "level": 15
     },
-    "type": "ingredient",
-    "skills": [
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Waterlogged Branch": {
     "icon": {
@@ -22604,11 +19661,7 @@
     "requirements": {
       "level": 20
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Watery Aura": {
     "icon": {
@@ -22632,10 +19685,7 @@
     "requirements": {
       "level": 86
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Weakening Catalyst": {
     "icon": {
@@ -22664,10 +19714,7 @@
     "requirements": {
       "level": 11
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism"
-    ]
+    "type": "ingredient"
   },
   "Weathered Idol": {
     "icon": {
@@ -22696,10 +19743,7 @@
     "requirements": {
       "level": 36
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Webbed Offshoot": {
     "icon": {
@@ -22723,11 +19767,7 @@
     "requirements": {
       "level": 10
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Wendigo Bone": {
     "icon": {
@@ -22751,11 +19791,7 @@
     "requirements": {
       "level": 44
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Werewolf Tail": {
     "icon": {
@@ -22778,11 +19814,7 @@
     "requirements": {
       "level": 72
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Wind Ornament": {
     "icon": {
@@ -22806,10 +19838,7 @@
     "requirements": {
       "level": 100
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling"
-    ]
+    "type": "ingredient"
   },
   "Windswept Roots": {
     "icon": {
@@ -22838,11 +19867,7 @@
     "requirements": {
       "level": 64
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Windy Aura": {
     "icon": {
@@ -22866,10 +19891,7 @@
     "requirements": {
       "level": 82
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Wintery Aspect": {
     "icon": {
@@ -22903,11 +19925,7 @@
     "requirements": {
       "level": 75
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Withered Root": {
     "icon": {
@@ -22930,10 +19948,7 @@
     "requirements": {
       "level": 92
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Wolf Fang": {
     "icon": {
@@ -22956,10 +19971,7 @@
     "requirements": {
       "level": 41
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing"
-    ]
+    "type": "ingredient"
   },
   "Wood Scrap": {
     "icon": {
@@ -22977,11 +19989,7 @@
     "requirements": {
       "level": 75
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Wood Shavings": {
     "icon": {
@@ -22999,11 +20007,7 @@
     "requirements": {
       "level": 43
     },
-    "type": "ingredient",
-    "skills": [
-      "scribing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Wood Snippet": {
     "icon": {
@@ -23021,11 +20025,7 @@
     "requirements": {
       "level": 16
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Wool": {
     "icon": {
@@ -23048,11 +20048,7 @@
     "requirements": {
       "level": 1
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Wooly Armour": {
     "icon": {
@@ -23076,10 +20072,7 @@
     "requirements": {
       "level": 10
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "World Illuminator": {
     "icon": {
@@ -23103,11 +20096,7 @@
     "requirements": {
       "level": 77
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "armouring"
-    ]
+    "type": "ingredient"
   },
   "Worm Sign": {
     "icon": {
@@ -23131,13 +20120,7 @@
     "requirements": {
       "level": 55
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Worn Coin": {
     "icon": {
@@ -23161,13 +20144,7 @@
     "requirements": {
       "level": 26
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Worn Memorabilia": {
     "icon": {
@@ -23185,11 +20162,7 @@
     "requirements": {
       "level": 16
     },
-    "type": "ingredient",
-    "skills": [
-      "jeweling",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Wriggling Darkness": {
     "icon": {
@@ -23213,11 +20186,7 @@
     "requirements": {
       "level": 70
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Wriggling Wooden Arm": {
     "icon": {
@@ -23241,10 +20210,7 @@
     "requirements": {
       "level": 50
     },
-    "type": "ingredient",
-    "skills": [
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Wybel Fluff": {
     "icon": {
@@ -23262,10 +20228,7 @@
     "requirements": {
       "level": 90
     },
-    "type": "ingredient",
-    "skills": [
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Wybel Taffy": {
     "icon": {
@@ -23283,11 +20246,7 @@
     "requirements": {
       "level": 65
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking"
-    ]
+    "type": "ingredient"
   },
   "Yeti Fur": {
     "icon": {
@@ -23316,11 +20275,7 @@
     "requirements": {
       "level": 48
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Zealous Illuminator": {
     "icon": {
@@ -23339,13 +20294,7 @@
     "requirements": {
       "level": 84
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Zhight Coral Piece": {
     "icon": {
@@ -23369,11 +20318,7 @@
     "requirements": {
       "level": 57
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Zhight Herbal Mix": {
     "icon": {
@@ -23396,12 +20341,7 @@
     "requirements": {
       "level": 55
     },
-    "type": "ingredient",
-    "skills": [
-      "alchemism",
-      "cooking",
-      "scribing"
-    ]
+    "type": "ingredient"
   },
   "Zhight Shiny Stone": {
     "icon": {
@@ -23425,11 +20365,7 @@
     "requirements": {
       "level": 57
     },
-    "type": "ingredient",
-    "skills": [
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Zhight Weird Magic Rock": {
     "icon": {
@@ -23453,13 +20389,7 @@
     "requirements": {
       "level": 58
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   },
   "Zombie Brain": {
     "icon": {
@@ -23478,11 +20408,7 @@
     "requirements": {
       "level": 4
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring"
-    ]
+    "type": "ingredient"
   },
   "Zombie Eye": {
     "icon": {
@@ -23505,12 +20431,6 @@
     "requirements": {
       "level": 54
     },
-    "type": "ingredient",
-    "skills": [
-      "armouring",
-      "tailoring",
-      "weaponsmithing",
-      "woodworking"
-    ]
+    "type": "ingredient"
   }
 }
