@@ -8,6 +8,7 @@ for (const itemName of Object.keys(OldData)) {
     if(NewData[itemName]?.material == "256:10") {
         NewData[itemName].material = data.material
     }
+
 }
 
 await Bun.write("Reference/tmp/advanced_gear_expanded.json", JSON.stringify(NewData, null, 2))

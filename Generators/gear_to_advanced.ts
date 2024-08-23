@@ -10,6 +10,10 @@ const AdvancedGearJson: Record<string, AdvancedItemData> = await Bun.file("Refer
     Loop through all items of GearJson. If the item is in AdvancedGearJson, merge the two objects, merge the objects. If its not, add the item to AdvancedGearJson.
 */
 
+const DeletedItems = [
+    "Cancer"
+]
+
 const TRANSFORMERS: Record<string, {from: string | undefined; to: string | undefined; delete: boolean; processor?: (to: string | any, value: string | any, object: any) => any; }> = {
     rarity: {
         from: "rarity",
@@ -211,6 +215,10 @@ const filter = process.argv.length > 2 ? process.argv.slice(2) : undefined
 
 console.log(Object.keys(GearJson).length)
 for (const itemName of Object.keys(GearJson)) {
+    if(DeletedItems.includes(itemName)) {
+        delete AdvancedGearJson[itemName]
+        continue
+    }
     if(filter && !filter.includes(itemName)) continue
     const newData = wynnFormatToAdvancedFormat(GearJson[itemName])
     if (itemName in AdvancedGearJson) {
