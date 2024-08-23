@@ -34,7 +34,10 @@ for (const ingredientName of Object.keys(AdvancedIngredients)) {
     const ingredient = AdvancedIngredients[ingredientName];
     const professions = Object.keys(Map).filter(key => Map[key].includes(ingredientName));
     console.log(ingredientName, professions);
-    ingredient.skills = professions;
+    if(!ingredient.requirements) {
+        ingredient.requirements = {};
+    }
+    ingredient.requirements.skills = professions;
 }
 
 await Bun.write("Reference/tmp/advanced_ingredients.json", JSON.stringify(AdvancedIngredients))
