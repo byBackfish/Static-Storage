@@ -1,6 +1,6 @@
 [
   {
-    "version": 13
+    "version": 16
   },
   {
     "id": "apiAthenaAuthPublicKey",
@@ -140,7 +140,7 @@
   },
   {
     "id": "dataStaticIngredientsAdvanced",
-    "md5": "db6bd17b8d83e532567e92ad5164c94a",
+    "md5": "457ae2227da8f6bebccf93ed4e2faea1",
     "url": "https://raw.githubusercontent.com/byBackfish/Static-Storage/main/Reference/advanced_ingredients.json"
   },
   {
