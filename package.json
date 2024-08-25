@@ -9,7 +9,7 @@
     "typescript": "^5.0.0"
   },
   "scripts": {
-    "update:gear": "bun run Generators/ts/gear/update_gear.ts && bun run Generators/ts/gear/update_gear_materials.ts",
+    "update:gear": "bun run Generators/ts/gear/update_gear.ts && bun run Generators/ts/gear/fix_gear_materials.ts",
     "fmt:gear": "bun run Generators/ts/gear/format_gear.ts",
     "all:gear": "bun run update:gear && bun run fmt:gear",
 

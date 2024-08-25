@@ -46105,9 +46105,9 @@
         "raw": -4
       },
       "rawMainAttackDamage": {
-        "max": 400,
-        "min": 92,
-        "raw": 308
+        "max": 935,
+        "min": 216,
+        "raw": 719
       },
       "spellDamage": {
         "max": 52,
@@ -65079,12 +65079,12 @@
     "base": {
       "averageDPS": 558,
       "damage": {
-        "max": 70,
-        "min": 70
+        "max": 60,
+        "min": 40
       },
       "airDamage": {
         "max": 140,
-        "min": 140
+        "min": 100
       }
     },
     "dropRestriction": "normal",
@@ -65100,8 +65100,8 @@
         "raw": 40
       },
       "rawAgility": 30,
-      "rawDexterity": 20,
-      "rawStrength": 20,
+      "rawDexterity": 10,
+      "rawStrength": 10,
       "walkSpeed": {
         "max": 52,
         "min": 12,
@@ -160756,8 +160756,8 @@
     "base": {
       "averageDPS": 817,
       "damage": {
-        "max": 220,
-        "min": 220
+        "max": 205,
+        "min": 145
       }
     },
     "dropRestriction": "never",
@@ -160787,7 +160787,7 @@
         "min": 1,
         "raw": 3
       },
-      "rawStrength": 25
+      "rawStrength": 15
     },
     "internalName": "Hanafubuki",
     "lore": "The most dangerous enemy is one you cannot see. Hidden amidst a flurry of petals comes an avalanche of blows, in one moment dissolving mountains and forests into a growing amalgam, leaving a wake of vibrant bloom in the next.",
@@ -164592,8 +164592,8 @@
     "base": {
       "averageDPS": 906,
       "damage": {
-        "max": 60,
-        "min": 60
+        "max": 40,
+        "min": 30
       },
       "waterDamage": {
         "max": 220,
