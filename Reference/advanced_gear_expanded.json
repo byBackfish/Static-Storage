@@ -46105,9 +46105,9 @@
         "raw": -4
       },
       "rawMainAttackDamage": {
-        "max": 935,
-        "min": 216,
-        "raw": 719
+        "max": 400,
+        "min": 92,
+        "raw": 308
       },
       "spellDamage": {
         "max": 52,
