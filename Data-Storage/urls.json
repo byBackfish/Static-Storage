@@ -250,7 +250,7 @@
   },
   {
     "id": "dataWynncraftTerritoryListV3",
-    "url": "https://beta-api.wynncraft.com/v3/guild/list/territory"
+    "url": "https://api.wynncraft.com/v3/guild/list/territory"
   },
   {
     "arguments": [
