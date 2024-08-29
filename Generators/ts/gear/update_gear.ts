@@ -169,6 +169,47 @@ const TRANSFORMERS: Record<string, {from: string | undefined; to: string | undef
                 }
             }
         }
+    },
+
+    /* Should be:
+        "majorIds": {
+      "description": "&b+Temblor: &3Bash gains +1 Area of Effect and is 25% faster",
+      "name": "Temblor"
+    }
+
+    Api Returns:
+
+    			"majorIds": {
+				"Saviour’s Sacrifice": "<span class='font-ascii' style='color:#55FFFF'>+Saviour<span class='font-default'>’</span>s Sacrifice: <span class='font-ascii' style='color:#00AAAA'>While under 50% maximum health, nearby allies gain 15% bonus damage and defence</span></span>"
+			},
+      */
+    majorIds: {
+        from: "majorIds",
+        to: "majorIds",
+        delete: false,
+        processor(to, value, object) {
+
+            let colorMap: Record<string, string> = {
+                "#55FFFF": "&b",
+                "#00AAAA": "&3"
+            }
+
+            let name = Object.keys(value)[0]
+            let description = value[name]
+
+            description = description.replace(/<span[^>]*style=['"]color:(#[0-9A-Fa-f]{6})['"][^>]*>/g, (match: any, color: string) => {
+                return colorMap[color] || '';
+            });
+
+            description = description.replace(/<\/span>/g, '');
+
+            console.log(name, description)
+
+            object[to] = {
+                name: name,
+                description: description
+            }
+        },
     }
 }
 

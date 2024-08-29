@@ -1,6 +1,6 @@
 [
   {
-    "version": 17
+    "version": 18
   },
   {
     "id": "apiAthenaAuthPublicKey",
@@ -115,12 +115,12 @@
   },
   {
     "id": "dataStaticGear",
-    "md5": "b2233b26ba29f6f5f376776d87be62cf",
+    "md5": "6a9f24bbd95c6ed2c49185a314f5d496",
     "url": "https://raw.githubusercontent.com/byBackfish/Static-Storage/main/Reference/gear.json"
   },
   {
     "id": "dataStaticGearAdvanced",
-    "md5": "829673e071142ee08bab7bf56ea695e3",
+    "md5": "b69efee74ceab98bd3f2548fb8074fd4",
     "url": "https://raw.githubusercontent.com/byBackfish/Static-Storage/main/Reference/advanced_gear.json"
   },
   {
