@@ -55,49 +55,31 @@ const TRANSFORMERS: Record<string, {from: string | undefined; to: string | undef
         from: "base.baseDamage",
         to: "base.damage",
         delete: true,
-        processor(to, value, object) {
-            nestedSet(object, to, { max: value, min: value })
-        },
     },
     baseFireDamage: {
         from: "base.baseFireDamage",
         to: "base.fireDamage",
         delete: true,
-        processor(to, value, object) {
-            nestedSet(object, to, { max: value, min: value })
-        },
     },
     baseAirDamage: {
         from: "base.baseAirDamage",
         to: "base.airDamage",
         delete: true,
-        processor(to, value, object) {
-            nestedSet(object, to, { max: value, min: value })
-        },
     },
     baseThunderDamage: {
         from: "base.baseThunderDamage",
         to: "base.thunderDamage",
         delete: true,
-        processor(to, value, object) {
-            nestedSet(object, to, { max: value, min: value })
-        },
     },
     baseWaterDamage: {
         from: "base.baseWaterDamage",
         to: "base.waterDamage",
         delete: true,
-        processor(to, value, object) {
-            nestedSet(object, to, { max: value, min: value })
-        },
     },
     baseEarthDamage: {
         from: "base.baseEarthDamage",
         to: "base.earthDamage",
         delete: true,
-        processor(to, value, object) {
-            nestedSet(object, to, { max: value, min: value })
-        },
     },
     baseFireDefence: {
         from: "base.baseFireDefence",
