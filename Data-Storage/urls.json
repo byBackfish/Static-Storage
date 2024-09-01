@@ -1,6 +1,6 @@
 [
   {
-    "version": 18
+    "version": 19
   },
   {
     "id": "apiAthenaAuthPublicKey",
@@ -225,7 +225,7 @@
   },
   {
     "id": "dataStaticUrls",
-    "url": "https://raw.githubusercontent.com/byBackfish/Static-Storage/main/Data-Storage/urls.json"
+    "url": "https://raw.githubusercontent.com/Wynntils/Static-Storage/main/Data-Storage/urls.json"
   },
   {
     "arguments": [
